@@ -1,0 +1,2806 @@
+price,amount,size,rooms,baths,parking,neighborhood
+270000000,27000,180,5,2,0,medellin aranjuez
+280000000,28000,168,5,3,0,medellin centro
+350000000,35000,95,3,2,0,medellin belen rosales
+350000000,35000,103,3,3,1,medellin la castellana
+310000000,31000,95,3,2,0,medellin la castellana
+310000000,31000,95,3,3,0,medellin la mota
+350000000,35000,95,3,2,1,medellin belen
+350000000,35000,103,3,2,0,medellin el poblado
+260000000,26000,140,4,3,0,medellin america
+240000000,24000,102,3,2,0,medellin belen
+290000000,29000,170,5,2,0,medellin las palmas
+300000000,30000,124,4,2,0,medellin simon bolivar
+250000000,25000,144,5,3,0,medellin el salvador
+298000000,29800,125,3,2,0,medellin san joaquin
+250000000,25000,140,5,2,0,medellin belen
+240000000,24000,118,4,2,0,medellin salvador
+350000000,35000,200,4,3,0,medellin simon bolivar
+250000000,25000,144,3,2,0,medellin robledo
+235000000,23500,119,3,3,0,medellin almeria
+270000000,27000,114,4,2,0,medellin florida nueva
+265000000,26500,198,4,2,0,medellin san javier
+190000000,19000,100,3,2,0,medellin america
+305000000,30500,168,4,2,0,medellin robledo
+250000000,25000,130,4,3,0,medellin calasanz
+350000000,35000,112,3,2,1,medellin belen la palma
+185000000,18500,120,3,2,1,itagui guayabal
+350000000,35000,112,3,2,1,medellin belen la palma
+330000000,33000,184,5,2,0,medellin simon bolivar
+310000000,31000,97,3,2,2,sabaneta centro
+339000000,33900,99,3,2,2,sabaneta san jose
+345000000,34500,90,3,2,1,medellin laureles
+350000000,35000,100,3,3,1,medellin laureles
+279000000,27900,200,5,2,0,medellin aranjuez
+280000000,28000,117,4,3,2,envigado loma del escobero
+260000000,26000,121,3,2,1,medellin la castellana
+335000000,33500,92,3,3,1,envigado alcala
+335000000,33500,110,3,2,1,envigado alcala
+345000000,34500,121,3,3,1,envigado cerca al colombiano
+290000000,29000,100,3,2,1,sabaneta cerca al exito
+335000000,33500,107,3,2,1,envigado alcala
+275000000,27500,100,4,3,1,medellin la castellana
+250000000,25000,122,4,2,0,medellin cordoba
+270000000,27000,97,4,3,1,medellin laureles
+260000000,26000,110,3,2,1,envigado el consuelo
+290000000,29000,104,4,3,1,medellin la pilarica
+260000000,26000,110,3,2,1,envigado mesa
+340000000,34000,90,3,2,0,medellin belen
+190000000,19000,91.5,4,2,0,medellin la america
+300000000,30000,99,3,2,1,envigado loma los almendros
+315000000,31500,93.5,3,2,2,envigado cerca cc city plaza
+350000000,35000,90,3,2,1,envigado zuÃ±iga
+270000000,27000,158,5,3,0,envigado mesa
+230000000,23000,102,3,2,0,envigado trianon
+198000000,19800,100,3,2,0,envigado cerca colegio la salle
+350000000,35000,96,3,2,1,medellin belen
+255000000,25500,90,3,2,1,envigado alto de las flores
+300000000,30000,193,4,2,1,medellin la america
+350000000,35000,115,3,3,1,envigado zuÃ±iga
+310000000,31000,115,4,3,1,medellin laureles
+345000000,34500,132,4,2,1,medellin los colores
+310000000,31000,108,3,3,2,medellin laureles
+214000000,21400,103,3,2,0,medellin santa monica ii
+185000000,18500,94,3,2,0,medellin belen san bernardo
+260000000,26000,112,3,3,0,sabaneta parque
+205000000,20500,110,3,2,1,medellin guayabal
+350000000,35000,136,3,3,0,envigado la magnolia
+200000000,20000,90,3,2,0,itagui parque
+330000000,33000,94,3,2,1,envigado seÃ±orial
+290000000,29000,200,5,2,0,medellin aranjuez
+192000000,19200,93,3,2,0,sabaneta holanda
+275000000,27500,93,3,2,1,medellin suroriente
+215000000,21500,105,3,2,1,medellin buenos aires
+240000000,24000,110,3,2,1,envigado trianon
+300000000,30000,125,3,3,0,itagui viviendas del sur
+350000000,35000,107,3,3,0,envigado loma de las brujas
+340000000,34000,96,3,2,2,envigado camino verde
+350000000,35000,110,4,3,1,medellin laureles
+335000000,33500,90,3,2,1,la-estrella la aldea
+300000000,30000,120,4,2,1,envigado el trianon
+275000000,27500,110,3,2,2,medellin simon bolivar
+320000000,32000,92,3,2,0,medellin belen
+272000000,27200,143,4,2,0,medellin villa hermosa
+270000000,27000,116,5,2,0,medellin buenos aires
+340000000,34000,90,3,2,0,medellin laureles
+215000000,21500,91,3,3,1,sabaneta holanda
+325000000,32500,102,4,3,0,medellin laureles
+319000000,31900,118,3,2,2,envigado chingui
+220000000,22000,90,3,2,0,medellin las playas
+290000000,29000,105,4,3,1,medellin la pilarica
+310000000,31000,118,3,3,0,medellin la floresta
+260000000,26000,112,4,2,1,medellin suroccidente
+290000000,29000,117,3,2,2,envigado loma del escobero
+160000000,16000,90,3,2,0,itagui la aldea
+300000000,30000,150,3,3,0,medellin bombona
+315000000,31500,100,3,3,1,medellin el poblado
+230000000,23000,105,3,2,1,medellin boston
+280000000,28000,117,4,2,1,envigado mesa
+315000000,31500,123,3,3,1,sabaneta aves marias
+310000000,31000,130,4,2,0,medellin belen
+138000000,13800,90,4,2,0,medellin manrique
+300000000,30000,103,3,2,0,envigado alcala
+340000000,34000,188,4,3,0,medellin laureles
+310000000,31000,140,4,3,0,medellin laureles
+330000000,33000,143,3,2,0,medellin los colores
+255000000,25500,139,4,3,0,medellin la america
+338000000,33800,106,3,3,1,envigado cumbres
+290000000,29000,120,3,3,1,envigado alquerias de san isidro
+267000000,26700,90,3,3,1,medellin loma de los bernal
+350000000,35000,98,3,2,2,medellin el poblado
+180000000,18000,98,3,2,0,medellin calasanz
+250000000,25000,96,3,2,1,medellin la america
+350000000,35000,120,3,3,2,medellin la mota
+310000000,31000,99,3,2,1,sabaneta aves maria
+215000000,21500,160,4,3,0,medellin las palmas
+310000000,31000,100,3,2,1,sabaneta aves marias
+300000000,30000,130,3,3,1,medellin belen los alpes
+295000000,29500,150,3,3,1,medellin la america
+270000000,27000,92,3,2,1,medellin belen
+315000000,31500,102,4,3,1,medellin loma de los bernal
+330000000,33000,101,3,2,2,sabaneta sabana alta
+320000000,32000,123,3,3,1,envigado dorado
+310000000,31000,140,4,3,0,medellin la florida
+255000000,25500,101,3,3,0,medellin simon bolivar
+350000000,35000,91,3,2,2,envigado loma de brujas
+258000000,25800,105,3,2,0,medellin belen
+250000000,25000,90,3,2,0,medellin la palma
+220000000,22000,102,3,2,0,envigado las flores
+330000000,33000,140,4,3,1,medellin castropol
+175000000,17500,115,3,2,0,medellin san antonio de prado
+296000000,29600,120,4,3,1,medellin la castellana
+298000000,29800,125,4,3,0,medellin san joaquin
+350000000,35000,120,3,2,1,medellin conquistadores
+320000000,32000,92,3,2,0,sabaneta aves maria
+280000000,28000,106,4,2,0,envigado san mateo
+350000000,35000,93,3,2,0,sabaneta centro
+300000000,30000,90,3,3,2,medellin san joaquin
+350000000,35000,170,4,3,1,medellin florida nueva
+314000000,31400,90,3,2,1,la-estrella la aldea
+340000000,34000,118,3,3,1,medellin calasanz
+350000000,35000,113,3,2,2,medellin la mota
+270000000,27000,95,3,3,0,envigado el dorado
+298000000,29800,106,3,2,1,sabaneta aves maria
+290000000,29000,90,3,2,1,sabaneta aves maria
+260000000,26000,134,5,3,0,medellin centro
+300000000,30000,116,3,2,0,envigado la paz
+208000000,20800,95,3,2,1,medellin santa monica
+290000000,29000,126,4,2,0,medellin carlos e restrepo
+310000000,31000,106,3,3,0,sabaneta aves marias
+210000000,21000,155,5,2,0,medellin manrique
+280000000,28000,110,3,2,0,medellin laureles
+320000000,32000,90,4,3,1,medellin laureles
+200000000,20000,96,3,2,0,itagui ditaires
+240000000,24000,130,4,2,0,envigado uribe angel
+290000000,29000,97,3,2,0,medellin simon bolivar
+285000000,28500,104,3,2,0,envigado alcala
+243000000,24300,140,5,3,0,medellin calasanz
+220000000,22000,100,3,2,0,envigado cerca exito y parque de envigado
+270000000,27000,90,3,2,1,medellin laureles
+322000000,32200,107,3,2,1,envigado andalucia
+350000000,35000,156,5,3,0,medellin floresta
+295000000,29500,90,3,2,1,medellin laureles
+270000000,27000,124,4,3,0,medellin carlos e restrepo
+340000000,34000,110,5,3,2,medellin belen la palma
+290000000,29000,184,5,2,0,medellin occidente
+340000000,34000,96,3,3,1,medellin simon bolivar
+240000000,24000,150,4,2,0,medellin el velodromo
+280000000,28000,96.5,4,2,2,envigado cerca cc city plaza
+179000000,17900,90,3,2,0,medellin belen
+290000000,29000,119,3,2,2,envigado cerca cc city plaza
+285000000,28500,90,3,2,0,medellin almerias
+350000000,35000,107,4,2,1,envigado el trianon
+330000000,33000,165,3,3,0,medellin belen
+350000000,35000,193,5,3,1,medellin santa monica
+340000000,34000,126,3,3,2,envigado zuÃ±iga
+290000000,29000,93,4,2,1,medellin loma de los bernal
+200000000,20000,120,3,3,0,medellin girardot
+325000000,32500,102,3,3,0,envigado las vegas
+350000000,35000,93,3,2,1,envigado camino verde
+320000000,32000,95,3,2,1,envigado loma del escobero
+299000000,29900,131,4,3,0,medellin san javier
+345000000,34500,147,5,3,1,medellin calasanz
+280000000,28000,100,3,2,0,envigado la magnolia
+150000000,15000,150,5,2,0,medellin manrique
+350000000,35000,130,3,3,1,medellin los colores
+322000000,32200,107,3,2,1,envigado andalucia
+210000000,21000,95,4,3,0,medellin villa hermosa
+150000000,15000,100,4,2,0,medellin manrique
+210000000,21000,123,3,2,0,medellin centro
+180000000,18000,103,3,2,0,envigado el dorado
+300000000,30000,140,4,3,0,medellin belen san bernardo
+335000000,33500,160,3,3,2,medellin la mota
+330000000,33000,94,3,2,0,sabaneta sector aves maria
+225000000,22500,150,5,2,0,itagui itagui santamaria numero 2
+280000000,28000,127,4,2,0,medellin miravalle
+250000000,25000,111,4,2,0,medellin belen
+340000000,34000,93,3,2,1,sabaneta aves maria
+300000000,30000,101,3,2,1,envigado el dorado
+290000000,29000,119,3,2,0,medellin belen
+340000000,34000,112,3,2,1,medellin la floresta
+150000000,15000,120,4,2,0,envigado la mina parte baja
+190000000,19000,96,4,2,0,medellin belen las playas
+290000000,29000,126,4,2,0,envigado la magnolia
+260000000,26000,110,3,2,1,medellin laureles
+310000000,31000,92,3,2,1,envigado seÃ±orial
+350000000,35000,117,3,3,1,envigado envigado
+350000000,35000,93,4,3,1,medellin conquistadores
+190000000,19000,90,4,2,1,medellin el poblado
+340000000,34000,145,3,3,3,medellin san javier
+140000000,14000,135,5,2,0,medellin aranjuez
+240000000,24000,113,4,3,1,medellin la castellana
+305000000,30500,110,3,2,1,sabaneta aves maria
+210000000,21000,120,4,2,0,medellin villa hermosa
+350000000,35000,152,4,3,1,envigado alcala
+340000000,34000,102,3,3,0,envigado zuÃ±iga
+185000000,18500,148,3,2,0,medellin el salvador
+329300000,32930,106,3,2,1,sabaneta alcaceres
+265000000,26500,105,4,3,0,envigado el trianon
+298000000,29800,100,3,2,1,medellin calasanz
+325000000,32500,94,3,2,1,medellin el poblado
+177000000,17700,120,3,2,0,itagui la finca
+330000000,33000,95,4,2,1,envigado seÃ±orial
+335000000,33500,100,3,3,1,medellin belen
+340000000,34000,112,3,2,1,envigado zuÃ±iga
+298000000,29800,113,3,3,1,medellin laureles
+200000000,20000,120,3,3,1,medellin manrique central 1
+275000000,27500,96,3,3,0,medellin san joaquin
+210000000,21000,91,3,2,1,itagui ditaires
+280000000,28000,91,3,2,0,medellin la castellana
+280000000,28000,112,4,3,1,sabaneta entreamigos
+290000000,29000,111,3,2,1,envigado los naranjos
+195000000,19500,106,3,2,0,itagui santa maria
+230000000,23000,132,4,3,0,medellin buenos aires
+350000000,35000,140,3,2,1,medellin belen la gloria
+350000000,35000,94,3,2,1,sabaneta parque
+250000000,25000,136,3,2,0,medellin belen
+215000000,21500,90,3,3,0,medellin rodeo alto
+320000000,32000,94,3,2,1,medellin belen loma de los bernal
+280000000,28000,192,5,3,0,medellin buenos aires
+320000000,32000,168,4,3,0,medellin belen
+340000000,34000,100,3,2,1,sabaneta aves maria
+305000000,30500,95,3,2,0,envigado mesa
+350000000,35000,115,3,2,1,medellin simon bolivar
+320000000,32000,120,5,2,0,envigado alcala
+300000000,30000,94,3,2,0,sabaneta loma san jose
+298000000,29800,100,3,3,0,envigado el portal
+340000000,34000,103,3,3,1,medellin la castellana
+250000000,25000,120,4,3,0,medellin belen
+230000000,23000,116,3,3,0,medellin floresta
+155000000,15500,90,3,2,0,medellin robledo
+260000000,26000,200,5,2,0,medellin manrique central
+335000000,33500,160,4,2,1,medellin manrique central
+280000000,28000,127,4,2,0,medellin suroccidente
+160000000,16000,128,4,2,0,medellin san javier
+260000000,26000,165,5,3,0,itagui la gloria
+255000000,25500,95,3,2,1,medellin la america
+228000000,22800,103,3,2,1,medellin santa lucia
+280000000,28000,168,5,3,0,medellin centro
+168000000,16800,98,3,2,0,medellin robledo
+175000000,17500,91,3,2,0,medellin robledo
+300000000,30000,117,4,2,0,envigado alcala
+220000000,22000,115,4,2,0,medellin campo valdes
+179000000,17900,119,5,2,0,medellin san antonio de prado
+290000000,29000,91,3,2,1,la-estrella suramerica
+350000000,35000,99,3,2,2,sabaneta aves maria
+350000000,35000,114,3,3,1,envigado la inmaculada
+300000000,30000,100,3,2,0,sabaneta aves marias
+205000000,20500,94,4,2,1,medellin calasanz
+350000000,35000,103,3,2,1,envigado dorado
+315000000,31500,106,3,2,1,sabaneta aves maria
+270000000,27000,144,4,2,0,medellin santa fe
+135000000,13500,200,5,3,0,medellin san javier
+270000000,27000,137,3,2,0,medellin suroccidente
+335000000,33500,100,3,3,1,medellin laureles
+265000000,26500,129,3,2,1,medellin occidente
+275000000,27500,135,4,2,1,medellin belen san bernardo
+350000000,35000,108,3,2,1,medellin loma de los bernal
+183000000,18300,94,3,2,0,medellin belen san bernardo
+285000000,28500,90,3,2,0,medellin la castellana
+350000000,35000,160,4,2,0,sabaneta calle larga
+320000000,32000,101,3,2,1,medellin laureles
+335000000,33500,96,3,3,1,medellin la mota
+300000000,30000,101,3,2,0,envigado el dorado
+325000000,32500,90,4,3,1,medellin el poblado
+295000000,29500,118,3,3,0,sabaneta cerca al exito
+349999995,35000,91,3,2,2,envigado loma brujas
+190000000,19000,110,4,2,0,envigado san jose
+315000000,31500,159,5,3,1,medellin guayabal
+275000000,27500,102,4,2,1,itagui ditaires
+310000000,31000,90,3,2,1,medellin laureles
+350000000,35000,119,3,3,2,medellin loma de los bernal
+220000000,22000,129,3,2,0,medellin laureles
+270000000,27000,127,4,2,0,medellin belen
+300000000,30000,104,4,3,1,medellin la pilarica
+350000000,35000,98,3,3,2,medellin el poblado
+300000000,30000,112,5,3,0,medellin la america
+320000000,32000,99,3,2,1,sabaneta aves maria
+310000000,31000,90,3,2,1,la-estrella la-estrella
+350000000,35000,126,3,3,0,medellin conquistadores
+348000000,34800,135,3,3,1,medellin la floresta
+300000000,30000,101,3,3,0,medellin laureles
+300000000,30000,110,3,3,1,envigado el trianon
+350000000,35000,115,4,3,1,envigado zuÃ±iga
+230000000,23000,90,4,2,0,envigado envigado
+340000000,34000,176,4,2,0,envigado alcala
+225000000,22500,104,4,3,0,envigado trianon
+350000000,35000,100,3,3,1,medellin belen loma de los bernal
+160000000,16000,94,4,3,0,medellin robledo
+210000000,21000,105,3,2,0,medellin miraflores
+210000000,21000,108,3,2,0,medellin buenos aires
+158000000,15800,90,4,2,1,medellin boston
+345000000,34500,90,3,2,1,la-estrella la aldea
+315000000,31500,123,3,2,0,medellin loma del indio
+130000000,13000,93,3,3,0,medellin villa nueva
+250000000,25000,115,3,2,1,medellin miravalle
+218000000,21800,120,4,3,0,medellin noroccidente
+300000000,30000,145,3,2,1,medellin la pilarica
+320000000,32000,100,3,2,1,sabaneta sabaneta
+230000000,23000,118,4,2,0,medellin el salvador
+268000000,26800,101,3,2,2,medellin las palmas
+210000000,21000,105,3,2,1,medellin nororiente
+270000000,27000,105,3,2,0,envigado los naranjos
+260000000,26000,110,3,2,0,envigado el consuelo
+270000000,27000,155,5,2,0,medellin calasanz
+260000000,26000,110,3,3,1,medellin la castellana
+220000000,22000,108,4,2,0,medellin campo valdes
+210000000,21000,150,3,2,0,medellin manrique
+220000000,22000,123,4,2,0,medellin la america
+290000000,29000,95,4,3,2,medellin san joaquin
+340000000,34000,93,4,3,1,medellin el poblado
+193000000,19300,94,3,2,0,medellin belen
+300000000,30000,95,3,2,1,envigado la cuenca
+310000000,31000,92,3,2,1,medellin loma de los bernal
+310000000,31000,96,3,2,1,medellin la mota
+210000000,21000,100,4,2,0,medellin robledo
+248000000,24800,110,4,3,1,medellin centro
+300000000,30000,93,3,2,0,envigado pontevedra
+190000000,19000,100,4,2,0,envigado el dorado
+350000000,35000,127,4,2,3,envigado el portal
+230000000,23000,143,4,2,1,medellin buenos aires
+260000000,26000,99.5,4,3,1,medellin el poblado
+270000000,27000,95,3,2,0,medellin la floresta
+300000000,30000,90,3,2,1,envigado barrio mesa
+190000000,19000,96,3,2,2,medellin santa lucia
+205000000,20500,96,3,2,1,medellin rodeo alto
+350000000,35000,92,3,2,1,envigado envigado la paz
+200000000,20000,90,4,2,0,medellin la america
+240000000,24000,110,3,2,1,envigado el salado
+350000000,35000,95,3,2,1,medellin belen rosales
+280000000,28000,96,4,2,2,la-estrella suramerica
+295000000,29500,114,3,2,1,medellin santa monica
+245000000,24500,90,3,2,1,medellin santa monica
+250000000,25000,95,3,3,1,medellin estadio
+330000001,33000,101,3,2,1,sabaneta san jose
+320000001,32000,117,3,2,1,sabaneta aves maria
+260000000,26000,100,4,3,1,medellin santa maria de los angeles
+220000001,22000,93,3,2,0,itagui el carmelo
+340000001,34000,97,4,3,2,sabaneta san jose
+320000001,32000,90,3,2,1,sabaneta aves maria
+320000001,32000,130,3,2,1,sabaneta aliadas
+320000001,32000,160,3,2,1,sabaneta alcazares
+290000001,29000,90,3,2,1,sabaneta aves maria
+235000000,23500,137,4,2,0,medellin buenos aires
+320000000,32000,95,3,2,1,medellin calasanz
+160000000,16000,120,4,2,0,itagui san francisco
+150000000,15000,90,4,2,0,medellin robledo
+328000000,32800,90,3,2,1,la-estrella la aldea
+340000000,34000,93,3,3,2,medellin trianon envigado
+320000000,32000,174,3,3,1,medellin simon bolivar
+300000000,30000,97,3,3,1,medellin loma de los bernal
+220000000,22000,110,4,2,1,medellin la margaritas
+240000000,24000,94,3,3,1,medellin noroccidente
+190000000,19000,91,3,2,0,medellin campo valdes 1
+200000000,20000,91,3,2,0,medellin la gloria
+195000000,19500,95,3,2,0,medellin la america
+200000000,20000,94,3,2,1,medellin calasanz
+310000000,31000,107,3,3,2,medellin barrio triste
+340000000,34000,113,3,3,2,envigado envigado alto de las flores
+190000000,19000,108,3,2,0,itagui itagui santa maria
+290000000,29000,115,3,2,1,envigado envigado la mesa
+295000000,29500,90,3,2,1,la-estrella la aldea
+285000000,28500,114,4,2,0,medellin barrio triste
+350000000,35000,90,3,2,1,la-estrella la aldea
+345000000,34500,100,3,2,2,envigado envigado loma del chocho
+350000000,35000,117,3,3,1,sabaneta sabaneta aves maria
+230000000,23000,120,3,2,0,medellin la america
+305000000,30500,93,3,3,1,sabaneta sabaneta centro
+340000000,34000,93,3,2,1,sabaneta sabaneta parque
+340000000,34000,90,3,2,1,envigado envigado las antillas
+330000000,33000,92,3,2,1,envigado cumbres
+320000000,32000,91,3,2,1,sabaneta holanda
+285000000,28500,100,3,2,1,medellin laureles
+350000000,35000,101,3,2,1,medellin la aguacatala
+340000000,34000,90,3,2,2,envigado lomas de las brujas
+298000000,29800,100,3,3,1,envigado el portal
+340000000,34000,182,4,3,1,envigado el trianon
+350000000,35000,140,4,2,1,envigado envigado
+330000000,33000,94,3,2,2,envigado la cuenca
+300000000,30000,100,3,2,1,medellin belen loma de los bernal
+325000000,32500,95,3,3,1,envigado envigado
+320000000,32000,140,4,3,1,medellin laureles
+296000000,29600,140,4,3,0,medellin la america
+290000000,29000,98,3,2,0,envigado san rafael
+320000000,32000,98,3,2,1,medellin belen loma de los bernal
+300000000,30000,90,3,2,1,medellin la castellana
+265000000,26500,96,3,2,1,envigado loma del escobero
+190000000,19000,110,4,3,0,medellin centro
+350000000,35000,114,3,3,1,envigado la inmaculada
+200000000,20000,94,3,2,0,medellin belen san bernardo
+300000000,30000,140,4,3,0,sabaneta callejon del banco
+225000000,22500,115,3,2,0,la-estrella ferrerias
+320000000,32000,92,3,2,1,medellin loma de los bernal
+260000000,26000,93,3,2,0,envigado san jose
+275000000,27500,110,4,3,1,medellin occidente
+330000000,33000,100,3,2,1,medellin suroccidente
+310000000,31000,140,4,3,2,medellin calasanz
+350000000,35000,97,3,2,2,envigado camino verde
+240000000,24000,146,4,3,0,medellin aranjuez
+320000000,32000,90,3,2,1,envigado primavera
+300000000,30000,93,3,2,0,envigado magnolia
+275000000,27500,106,4,3,1,medellin simon bolivar
+335000000,33500,127,3,2,0,sabaneta aves maria
+350000000,35000,93,3,2,1,sabaneta parque
+305000000,30500,96,3,2,1,medellin belen loma de los bernal
+290000000,29000,99,3,2,1,sabaneta aves marias
+300000000,30000,171,4,2,0,medellin los angeles
+295000000,29500,100,3,3,1,envigado envigado barrio el portal
+270000000,27000,130,4,3,1,envigado la magnolia
+330000000,33000,122,4,3,1,medellin barrio triste
+340000000,34000,139,3,2,1,medellin belen
+240000000,24000,109,3,2,0,medellin el salvador
+280000000,28000,95,4,3,1,medellin occidente
+350000000,35000,93,4,3,1,envigado zuÃ±iga
+208000000,20800,126,4,3,1,medellin centro
+310000000,31000,90,3,2,1,envigado loma chinguin
+330000000,33000,147,4,3,0,medellin el poblado
+350000000,35000,122,3,3,2,medellin belen
+310000000,31000,128,4,2,0,medellin guayabal
+220000000,22000,120,4,3,1,medellin robledo
+340000000,34000,170,5,2,0,medellin belen
+220000000,22000,110,3,3,0,envigado el dorado
+290000000,29000,114,3,2,1,envigado naranjos
+290000000,29000,95,3,3,1,envigado sector primavera
+130000000,13000,130,3,2,3,medellin nororiente
+210000000,21000,140,4,3,0,medellin el rodeo
+280000000,28000,97,3,2,1,medellin santa maria de los angeles
+350000000,35000,109,3,2,0,envigado alcala
+350000000,35000,101,3,3,1,sabaneta aves maria
+240000000,24000,104,3,2,0,medellin florida nueva
+206000000,20600,115,3,2,0,envigado el trianon
+350000000,35000,136,3,3,1,medellin belen rosales
+305000000,30500,116,3,2,1,sabaneta aburra sur
+192000000,19200,108,4,2,0,medellin guayabal
+330000000,33000,121,3,3,1,medellin simon bolivar
+330000000,33000,113,3,2,0,envigado las cometas
+290000000,29000,94,3,2,1,sabaneta vegas
+345000000,34500,130,4,3,1,medellin belen aliadas
+313000000,31300,91,3,2,2,sabaneta las lomitas
+310000000,31000,190,5,2,0,medellin laureles
+275000000,27500,107,3,3,1,medellin suroccidente
+260000000,26000,90,3,2,1,sabaneta mayorca
+125000000,12500,101,3,2,0,medellin belen la pradera
+270000000,27000,127,4,2,0,medellin occidente
+280000000,28000,94,3,2,1,envigado el dorado
+349000000,34900,155,4,3,1,envigado alcala
+270000000,27000,99,4,2,1,medellin santa maria de los angeles
+150000000,15000,90,3,2,0,medellin pedregal
+330000000,33000,108,3,2,2,medellin alejandria
+320000000,32000,103,3,2,0,medellin belen loma de los bernal
+350000000,35000,107,3,2,1,envigado las antillas
+330000000,33000,100,3,2,0,envigado cumbres
+280000000,28000,104,3,3,1,medellin la floresta
+270000000,27000,93,3,2,0,envigado loma del barro
+290000000,29000,98,3,2,1,sabaneta sabaneta
+320000000,32000,117,3,2,2,envigado envigado
+270000000,27000,94,3,2,1,sabaneta sabaneta
+255000000,25500,101,3,3,0,medellin simon bolivar
+345000000,34500,168,3,2,1,medellin belen aliadas
+340000000,34000,135,4,3,1,medellin laureles
+280000000,28000,96,3,3,1,medellin belen la mota
+175000000,17500,95,3,2,0,medellin robledo
+350000000,35000,99,3,2,1,sabaneta aves marias
+330000000,33000,140,4,2,2,medellin la floresta
+280000000,28000,109,4,2,1,envigado san mateo
+350000000,35000,95,3,2,1,medellin loma de los bernal
+210000000,21000,140,4,3,0,medellin guayabal
+322000000,32200,110,3,2,2,envigado loma de brujas
+130000000,13000,200,5,2,0,medellin santa cruz
+183000000,18300,94,3,2,0,medellin belen san bernardo
+275000000,27500,95,3,3,1,medellin san joaquin avenida bolivariana
+225000000,22500,95,4,3,1,medellin villa hermosa
+280000000,28000,90,3,2,1,medellin belen
+220000000,22000,100,4,2,0,medellin la asomadera
+275000000,27500,164,4,3,0,medellin belen rosales
+170000000,17000,120,3,3,0,medellin laureles conquistadores castellana
+260000000,26000,130,4,2,0,medellin belen
+250000000,25000,91,3,2,0,medellin boston
+300000000,30000,160,5,3,0,medellin aranjuez
+290000000,29000,94,3,3,1,medellin san diego
+210000000,21000,90,3,2,1,medellin belen
+298000000,29800,128,4,2,0,medellin san joaquin
+250000000,25000,100,3,2,0,medellin la floresta
+255000000,25500,114,3,3,0,medellin belen la palma
+210000000,21000,104,3,2,0,itagui santa maria
+268000000,26800,130,4,2,0,medellin belen
+290000000,29000,92,3,2,0,medellin el poblado
+320000000,32000,123,3,3,1,envigado el dorado
+175000000,17500,118,3,2,0,medellin buenos aires
+345000000,34500,160,4,3,2,medellin la mota
+160000000,16000,90,4,2,0,medellin buenos aires
+284900000,28490,101,3,2,0,envigado la magnolia
+215000000,21500,91,3,3,0,sabaneta calle larga
+310000000,31000,100,3,2,0,sabaneta aves maria
+350000000,35000,98,3,2,0,envigado primavera
+250000000,25000,94,3,2,0,envigado los naranjos
+350000000,35000,90,3,2,1,sabaneta las vegas
+350000000,35000,100,3,2,0,medellin belen
+260000000,26000,110,4,2,0,medellin belen san bernardo
+297000000,29700,97,4,3,2,medellin san joaquin
+270000000,27000,119,5,2,0,envigado la magnolia
+315000000,31500,110,3,3,0,sabaneta aves marias
+340000000,34000,100,3,3,1,medellin laureles
+285000000,28500,93,3,2,1,envigado alto de las flores
+230000000,23000,133,3,2,0,envigado santa gertruides
+295000000,29500,90,3,2,0,medellin belen la palma
+160000000,16000,94,3,2,0,medellin belen san bernardo
+298000000,29800,100,3,2,1,envigado portal
+125000000,12500,140,4,2,1,medellin buenos aires
+340000000,34000,127,3,3,2,medellin laureles
+340000000,34000,127,3,3,2,medellin laureles
+290000000,29000,104,3,2,1,medellin la pilarica
+199000000,19900,147,3,2,0,medellin buenos aires
+330000000,33000,93,3,2,1,envigado alto de las flores
+350000000,35000,114,5,3,1,medellin la mota
+330000000,33000,160,4,2,1,itagui suramerica
+322000000,32200,107,3,2,1,envigado san marcos
+140000000,14000,102,5,3,0,medellin calasanz
+300000000,30000,156,4,2,0,medellin florida nueva
+165000000,16500,120,3,2,0,medellin belen
+285000000,28500,136,4,3,0,medellin laureles
+310000000,31000,95,3,2,1,medellin laureles
+275000000,27500,105,3,2,2,medellin simon bolivar
+330000000,33000,165,3,2,0,medellin belen la palma
+250000000,25000,97,3,2,1,envigado el dorado
+350000000,35000,137,4,3,1,medellin la florida
+250000000,25000,105,3,2,0,medellin carlos e restrepo
+305000000,30500,109,4,2,1,medellin laureles
+255000000,25500,161,4,3,0,medellin santa fe
+340000000,34000,99,4,3,1,envigado zuÃ±iga
+123000000,12300,120,4,2,0,medellin castilla la maracana
+250000000,25000,126,4,2,0,medellin santa monica
+270000000,27000,110,3,2,1,envigado el consuelo
+340000000,34000,92,3,3,1,medellin belen
+230000000,23000,102,4,2,0,medellin belen las playas
+240000000,24000,116,4,2,0,itagui santa maria
+345000000,34500,120,3,2,1,medellin laureles
+140000000,14000,167,4,2,0,medellin castilla
+155000000,15500,100,4,2,0,medellin manrique central
+275000000,27500,90,3,2,1,envigado envigado
+300000000,30000,105,5,3,1,medellin san joaquin
+305000000,30500,105,3,2,0,medellin simon bolivar
+250000000,25000,100,3,2,0,sabaneta entreamigos
+330000000,33000,101,3,2,0,sabaneta aves maria
+240000000,24000,98,3,2,0,medellin san diego
+345000000,34500,115,4,2,1,envigado zuÃ±iga
+270000000,27000,116,5,3,0,medellin los colores
+290000000,29000,92,3,2,1,itagui suramerica
+160000000,16000,105,3,2,0,medellin buenos aires quinta linda
+320000000,32000,100,4,2,0,sabaneta cerca al parque
+295000000,29500,90,3,2,1,medellin suroccidente
+320000000,32000,97,3,2,0,envigado camino verde
+310000000,31000,90,3,2,1,medellin loma de los bernal
+280000000,28000,106,3,2,0,medellin florida nueva
+320000000,32000,92,4,2,0,medellin belen la nubia
+270000000,27000,109,3,2,0,envigado el dorado
+340000000,34000,97,3,2,2,envigado camino verde
+300000000,30000,96,3,2,1,medellin calasanz
+200000000,20000,135,3,2,0,medellin buenos aires
+275000000,27500,197,3,3,1,medellin centro
+280000000,28000,95,4,3,2,envigado altos de misael
+350000000,35000,178,3,3,0,envigado la paz
+320000000,32000,120,3,2,1,sabaneta villas del carmen
+345000000,34500,92,3,2,1,envigado cumbres
+350000000,35000,97,3,2,1,envigado alcala
+320000000,32000,100,3,2,1,envigado la cuenca
+285000000,28500,104,3,3,0,medellin la america
+320000000,32000,95,3,2,0,medellin belen san bernardo
+140000000,14000,94,4,2,0,medellin el salvador
+268000000,26800,94,3,2,0,medellin conquistadores
+155000000,15500,116,4,2,0,itagui robles del sur
+350000000,35000,98,3,2,1,medellin laureles
+120000000,12000,94,3,2,0,medellin castilla
+340000000,34000,100,3,3,2,medellin el poblado
+300000000,30000,166,4,3,1,medellin occidente
+160000000,16000,91,4,3,0,medellin robledo
+350000000,35000,140,3,3,0,itagui suramerica
+305000000,30500,105,3,2,1,medellin loma de los bernal
+211500000,21150,90,3,2,1,itagui santa maria n 1
+260000000,26000,113,3,2,2,medellin belen la palma
+260000000,26000,100,3,3,0,envigado barrio obrero
+345000000,34500,90,3,3,2,envigado las antillas
+345000000,34500,121,3,3,2,medellin el rodeo
+348000000,34800,105,3,2,1,medellin malibu
+350000000,35000,141,4,2,0,envigado alcala
+230000000,23000,110,3,2,0,medellin el salvador
+200000000,20000,130,3,2,0,itagui santa maria
+325000000,32500,105,3,2,0,itagui suramerica
+205000000,20500,125,4,2,0,medellin suroccidente
+250000000,25000,134,3,2,1,medellin guayabal
+335000000,33500,97,3,2,2,sabaneta sabaneta san jose
+340000000,34000,100,3,2,2,medellin barrio triste
+340000000,34000,104,3,2,1,sabaneta sabaneta san jose
+255000000,25500,91,3,2,1,envigado envigado los naranjos
+350000000,35000,128,3,3,1,sabaneta sabaneta virgen del carmen
+190000000,19000,128,4,3,0,medellin barrio triste
+300000000,30000,95,3,2,0,itagui suramerica
+250000000,25000,180,4,2,0,itagui san jose
+350000000,35000,92,3,2,1,envigado las brujas
+330000000,33000,131,5,3,1,medellin los colores
+148000000,14800,112,3,2,0,medellin robledo
+230000000,23000,120,5,2,0,medellin buenos aires
+305000000,30500,110,5,3,1,medellin loma de los bernal
+330000000,33000,118,3,2,0,envigado mesa
+205000000,20500,107,4,2,0,itagui simon bolivar
+250000000,25000,112,3,2,1,medellin los colores
+190000000,19000,90,3,3,0,medellin belen
+330000000,33000,108,3,2,1,sabaneta aves maria
+330000000,33000,108,3,3,1,sabaneta aves maria
+350000000,35000,97,3,2,1,envigado camino verde
+340000000,34000,97,4,3,2,sabaneta vereda san jose
+320000000,32000,93,3,2,1,medellin belen
+200000000,20000,96,3,3,1,medellin buenos aires
+270000000,27000,100,5,3,1,medellin barrio triste
+205000000,20500,95,3,2,0,medellin laureles
+240000000,24000,115,3,2,0,sabaneta entreamigos
+245000000,24500,92,3,3,0,medellin calazans
+290000000,29000,102,3,2,2,sabaneta loma san remo
+320000000,32000,130,3,2,0,medellin floresta
+260000000,26000,97,3,2,1,medellin loma de los bernal
+250000000,25000,140,3,2,0,medellin florida nueva
+350000000,35000,101,3,2,1,medellin la aguacatala
+260000000,26000,114,5,3,0,medellin florida nueva
+330000000,33000,101,3,3,2,envigado loma de las brujas
+220000000,22000,90,4,3,0,medellin rodeo alto
+350000000,35000,126,4,3,2,envigado envigado av el poblado
+320000000,32000,95,4,2,1,la-estrella suramerica
+295000000,29500,106,3,2,0,envigado los naranjos
+330000000,33000,109,3,2,0,sabaneta edificio aves maria
+280000000,28000,100,3,2,1,medellin belen la palma
+300000000,30000,130,3,2,1,sabaneta cerca del hospital
+350000000,35000,130,4,3,0,medellin loma de los bernal
+320000000,32000,99,3,2,0,medellin aves maria
+180000000,18000,90,3,2,0,medellin floresta alcazares
+320000000,32000,133,4,3,1,medellin la america
+320000000,32000,128,3,3,1,la-estrella suramerica
+345000000,34500,142,3,2,2,envigado loma del escobero
+330000000,33000,110,3,3,0,medellin la mota
+350000000,35000,110,4,3,2,envigado la cuenca
+242000000,24200,135,3,3,1,medellin belen nueva villa del aburra
+350000000,35000,102,3,2,1,medellin laureles
+330000000,33000,138,3,3,1,medellin suramericana
+250000000,25000,105,3,2,0,medellin suroccidente
+345000000,34500,121,3,2,0,envigado alcala
+200000000,20000,110,3,2,1,medellin loreto
+260000000,26000,180,3,2,0,medellin belen san bernardo
+270000000,27000,102,3,3,1,medellin belen
+350000000,35000,151,4,3,1,medellin conquistadores
+260000000,26000,114,3,3,1,medellin belen
+340000000,34000,90,3,2,0,medellin belen
+340000000,34000,90,3,2,0,medellin belen
+350000000,35000,90,3,2,0,medellin belen
+330000000,33000,120,3,2,2,sabaneta el carmelo
+350000000,35000,128,3,3,1,medellin san german
+145000000,14500,128,3,3,1,medellin manrique
+265000000,26500,93,4,3,0,envigado el portal
+210000000,21000,109,4,3,0,medellin belen
+300000000,30000,100,3,2,1,medellin santa monica
+265000000,26500,96,4,3,1,medellin conquistadores
+280000000,28000,137,3,3,0,medellin santa lucia
+345000000,34500,90,3,2,1,medellin laureles
+330000000,33000,120,3,2,1,envigado obrero
+315000000,31500,94,3,3,1,medellin belen la palma
+250000000,25000,104,3,2,1,envigado mesa
+320000000,32000,132,4,3,1,medellin la castellana
+280000000,28000,145,5,2,1,medellin buenos aires
+150000000,15000,140,5,2,0,medellin nororiente
+300000000,30000,130,3,3,0,medellin laureles
+185000000,18500,110,4,2,0,medellin buenos aires
+330000000,33000,124,5,3,1,medellin carlos e restrepo
+330000000,33000,140,4,3,1,medellin la floresta
+230000000,23000,94,3,3,0,medellin america
+300000000,30000,110,3,3,1,sabaneta aves maria
+320000000,32000,130,3,3,1,medellin la mota
+220000000,22000,115,4,2,0,medellin campo valdes 1
+340000000,34000,147.26,3,3,1,medellin estadio
+350000000,35000,122,3,3,2,medellin loma de los bernal
+240000000,24000,90,3,2,1,medellin los colores
+188000000,18800,110,4,2,0,medellin buenos aires
+265000000,26500,147,5,3,1,medellin centro
+210000000,21000,119,4,3,0,medellin suroccidente
+260000000,26000,100,4,3,1,medellin santa fe
+310000000,31000,95,3,2,1,medellin la mota
+340000000,34000,130,3,2,1,medellin conquistadores
+255000000,25500,92,3,2,0,envigado alcala
+300000000,30000,127,4,2,1,medellin los colores
+160000000,16000,97,3,2,0,medellin villa hermosa
+330000000,33000,140,4,3,0,medellin floresta
+310000000,31000,126,5,3,0,medellin belen
+175000000,17500,100,4,2,0,medellin primavera
+215000000,21500,106,3,2,1,envigado trianon
+320000000,32000,117,3,3,0,sabaneta aves maria
+298000000,29800,125,3,2,0,medellin san joaquin
+280000000,28000,103,4,2,1,medellin laureles
+345730000,34573,98,3,2,1,envigado la primavera
+345000000,34500,112,4,3,2,envigado loma del barro
+290000000,29000,96,4,2,1,medellin laureles
+350000000,35000,141,4,2,0,envigado alcala
+300000000,30000,138,3,2,1,medellin simon bolivar
+345000000,34500,102,4,3,1,medellin la castellana
+330000000,33000,180,5,2,0,medellin la castellana
+335000000,33500,95,3,2,0,envigado loma del escobero
+290000000,29000,90,3,3,1,medellin laureles
+275000000,27500,96,3,3,0,medellin san joaquin
+350000000,35000,120,3,2,1,medellin la pilarica
+170000000,17000,100,4,2,0,medellin suroccidente
+255000000,25500,93,3,2,1,medellin belen
+135000000,13500,110,4,3,1,medellin robledo
+310000000,31000,104,4,3,1,medellin la pilarica
+288000000,28800,98,3,2,0,medellin belen san bernardo
+310000000,31000,100,3,2,1,medellin calasanz
+280000000,28000,117,3,2,1,envigado las antillas
+350000000,35000,95,3,2,1,envigado otraparte
+350000000,35000,150,3,2,1,medellin estadio
+210000000,21000,98,3,2,1,la-estrella la ferreria
+300000000,30000,96,3,2,1,sabaneta aves maria
+295000000,29500,103,3,3,0,medellin loma de los bernal
+205000000,20500,98,3,2,0,sabaneta restrepo naranjo
+295000000,29500,103,3,3,0,medellin loma de los bernal
+270000000,27000,96,3,2,1,sabaneta aves maria
+350000000,35000,100,3,2,1,sabaneta aves maria
+265000000,26500,123,4,2,0,medellin laureles
+160000000,16000,92,3,2,0,medellin aranjuez
+305000000,30500,90,3,2,1,itagui suramerica
+250000000,25000,130,4,3,0,medellin nororiente
+290000000,29000,140,4,3,1,medellin simon bolivar
+270000000,27000,130,3,3,0,medellin la america
+320000000,32000,97,3,3,1,medellin belen la palma
+220000000,22000,120,3,2,0,medellin manrique
+330000000,33000,90,3,2,2,medellin calasanz
+280000000,28000,98,3,3,1,medellin nueva villa aburra
+210000000,21000,132,5,2,0,medellin belen san bernardo
+298000000,29800,128,4,2,0,medellin san joaquin
+340000000,34000,97,3,2,2,envigado camino verde
+240000000,24000,122,5,2,2,medellin calasanz
+270000000,27000,117,4,2,0,medellin florida nueva
+187000000,18700,94,3,2,0,medellin belen san bernardo
+260000000,26000,90,3,2,0,medellin simon bolivar
+320000000,32000,95,3,2,0,envigado la pradera
+350000000,35000,110,4,3,1,medellin guayabal
+280000000,28000,92,4,3,1,medellin suroccidente
+195000000,19500,120,4,2,2,itagui yarumito
+230000000,23000,174,4,3,0,medellin belen
+350000000,35000,96,3,2,1,envigado loma del escobero
+165000000,16500,105,4,2,0,medellin robledo
+340000000,34000,115,3,3,1,medellin simon bolivar
+200000000,20000,120,3,3,0,envigado seÃ±orial
+295000000,29500,110,3,2,0,medellin simon bolivar
+250000000,25000,94,3,2,1,medellin calasanz
+330000000,33000,96.48,3,2,1,medellin belen
+190000000,19000,134,3,2,0,medellin san cristobal
+340000000,34000,97,3,2,1,envigado san misael
+275000000,27500,110,4,3,1,envigado el dorado
+162000000,16200,90,3,2,0,medellin robledo
+205000000,20500,110,3,3,1,medellin prado
+295000000,29500,90,3,2,1,sabaneta sabaneta
+150000000,15000,150,5,2,0,medellin manrique
+255000000,25500,90,3,2,1,medellin santa monica
+310000000,31000,109,5,2,1,medellin la castellana
+250000000,25000,104,3,2,0,medellin campo amor
+270000000,27000,132,3,2,0,medellin boston
+280000000,28000,194,5,3,0,medellin prado
+340000000,34000,160,3,2,1,medellin laureles
+350000000,35000,193,5,3,1,medellin santa monica
+300000000,30000,155,3,3,0,medellin florida nueva
+185000000,18500,120,5,2,0,envigado la paz
+340000000,34000,127,3,3,2,medellin laureles
+330000000,33000,170,4,2,0,medellin la palma
+260000000,26000,138,5,3,1,medellin calasanz
+320000000,32000,150,3,3,1,medellin guayabal
+298000000,29800,125,3,3,0,medellin san joaquin
+285000000,28500,90,3,2,0,medellin belen san bernardo
+310000000,31000,127,4,2,1,medellin loma de los bernal
+330000000,33000,99,3,2,1,sabaneta aves maria
+330000000,33000,94,4,3,1,envigado zuÃ±iga
+200000000,20000,164,4,2,0,medellin campo valdes
+270000000,27000,135,4,3,1,medellin san javier
+300000000,30000,105,3,3,0,medellin la america
+328000000,32800,97,3,2,1,medellin belen la palma
+315000000,31500,95,3,2,1,medellin belen la mota
+314000000,31400,90,3,2,1,la-estrella la aldea
+300000000,30000,96,3,2,0,sabaneta aves maria
+170000000,17000,102,3,2,0,medellin buenos aires
+245000000,24500,100,4,3,0,medellin la castellana
+290000000,29000,90,3,2,1,envigado la paz
+305000000,30500,110,5,3,0,medellin loma de los bernal
+315000000,31500,137,4,2,1,medellin loma de los bernal
+230000000,23000,178,4,3,0,medellin belen san bernardo
+280000000,28000,94,3,2,0,sabaneta holanda
+350000000,35000,156,4,3,0,envigado alcala
+205000000,20500,162,3,2,0,medellin florencia
+200000000,20000,120,5,3,0,medellin aranjuez
+299000000,29900,118,4,3,1,medellin belen
+300000000,30000,109,3,2,0,medellin belen alameda
+198000000,19800,105,3,2,2,envigado los benedictinos
+250000000,25000,133,4,2,0,itagui santa maria n 2
+320000000,32000,120,5,2,0,envigado alcala
+330000000,33000,92,3,2,0,sabaneta las lomitas
+230000000,23000,94,4,2,0,envigado los naranjos
+298000000,29800,100,3,3,1,envigado el portal
+160000000,16000,112,4,2,0,medellin robledo
+270000000,27000,135,4,2,0,medellin belen san bernardo
+230000000,23000,104,4,2,0,sabaneta holanda
+350000000,35000,107,4,2,1,envigado las antillas
+245000000,24500,142,4,2,0,medellin florida nueva
+270000000,27000,130,4,2,0,medellin belen
+280000000,28000,93,3,2,0,envigado el dorado
+319990000,31999,97,4,3,1,medellin simon bolivar
+230000000,23000,96,3,2,0,medellin belen
+347000000,34700,141,4,3,1,medellin conquistadores
+300000000,30000,93,3,2,1,envigado zuÃ±iga
+280000000,28000,110,3,2,0,envigado alcala
+300000000,30000,113,3,3,1,medellin calasanz
+220000000,22000,90,3,2,1,medellin la pilarica
+210000000,21000,98,3,2,0,medellin santa monica
+295000000,29500,95,3,2,1,sabaneta calle del banco
+150000000,15000,156,3,2,1,medellin castilla
+350000000,35000,93,4,2,1,medellin los colores
+230000000,23000,133,4,3,0,envigado primavera
+159000000,15900,130,3,2,0,medellin buenos aires
+350000000,35000,127,3,3,2,medellin los colores
+265000000,26500,93,4,3,1,medellin belen la palma
+250000000,25000,111,3,3,0,medellin florida nueva
+320000000,32000,90,3,3,1,medellin loma de los bernal
+320000000,32000,180,5,2,1,medellin san bernardo
+285000000,28500,90,3,2,1,medellin almeria
+240000000,24000,98,5,3,1,medellin calasanz
+320000000,32000,130,3,3,0,sabaneta aves maria
+345000000,34500,92,3,3,2,envigado cumbres
+240000000,24000,116,4,2,0,itagui las mercedes
+340000000,34000,92,3,2,1,envigado castillejos
+300000000,30000,116,3,2,1,medellin la castellana
+315000000,31500,93,3,2,1,envigado loma del escobero
+320000000,32000,128,4,3,1,medellin calasanz
+280000000,28000,180,5,3,0,medellin la america
+350000000,35000,186,4,3,0,medellin belen
+315000000,31500,130,3,3,1,medellin conquistadores
+280000000,28000,139,4,2,1,medellin calasanz
+308000000,30800,90,3,2,1,sabaneta loma de san jose
+315000000,31500,104,3,3,1,medellin loma de los bernal
+300000000,30000,93,3,2,2,sabaneta san jose
+340000000,34000,90,3,2,1,medellin laureles
+270000000,27000,90,3,2,1,medellin laureles
+310000000,31000,90,3,2,0,sabaneta virgen del carmen
+260000000,26000,110,4,2,1,medellin belen
+200000000,20000,136,4,2,0,medellin belen
+330000000,33000,120,4,3,1,medellin loma de los bernal
+220000000,22000,120,4,2,1,medellin belen
+298000000,29800,125,4,3,0,medellin san joaquin
+320000000,32000,93,3,3,1,sabaneta aves maria
+305000000,30500,150,3,3,0,medellin simon bolivar
+345000000,34500,150,3,3,0,envigado la paz
+315000000,31500,95,3,2,1,sabaneta san antonio
+330000000,33000,141,3,2,0,medellin los parra
+305000000,30500,90,3,2,1,envigado la paz espectacular apartamento
+350000000,35000,101,3,2,1,medellin simon bolivar
+300000000,30000,117,5,3,1,medellin loma del indio
+270000000,27000,124,4,2,0,medellin carlos e restrepo
+340000000,34000,97,4,2,1,envigado la paz
+120000000,12000,94,3,2,0,medellin robledo
+329000000,32900,114,3,3,1,sabaneta aves maria
+325000000,32500,95,3,2,0,sabaneta vereda san jose
+290000000,29000,91,3,2,1,sabaneta holanda
+342000000,34200,91,3,3,2,envigado dorado
+350000000,35000,154,3,3,0,medellin estadio
+290000000,29000,96,4,3,1,itagui suramerica
+275000000,27500,110,4,3,1,medellin simon bolivar
+330000000,33000,140,3,2,1,medellin castropol
+335000000,33500,100,3,3,1,medellin la castellana
+130000000,13000,99,4,2,0,medellin robledo
+240000000,24000,97,3,2,0,medellin las playas
+160000000,16000,90,3,2,1,medellin prado
+345000000,34500,110,3,2,2,medellin loma de los bernal
+310000000,31000,142,4,3,1,medellin calasanz
+204000000,20400,94,4,2,0,medellin san joaquin
+335000000,33500,91,3,2,0,sabaneta aves maria
+280000000,28000,110,4,2,1,medellin calasanz
+265000000,26500,90,3,2,1,medellin loma de los bernal
+260000000,26000,160,5,3,0,medellin el salvador
+320000000,32000,117,3,3,1,medellin velodromo
+255000000,25500,126,4,2,0,medellin las palmas
+280000000,28000,145,5,2,2,medellin buenos aires
+320000000,32000,123,3,2,1,envigado el dorado
+350000000,35000,135,4,3,2,medellin el poblado
+260000000,26000,90,3,2,1,envigado alcala
+270000000,27000,124,4,2,0,medellin carlos e restrepo
+325000000,32500,106,3,2,1,sabaneta aves maria
+268000000,26800,140,4,3,1,medellin los colores
+255000000,25500,117,4,2,0,medellin belen san bernardo
+300000000,30000,120,3,2,1,medellin la pilarica
+270000000,27000,114,4,2,0,medellin guayabal
+260000000,26000,145,3,3,1,medellin belen parque
+269990000,26999,160,3,3,1,medellin boston
+250000000,25000,110,3,3,1,envigado intermedia envigado
+316000000,31600,91,3,2,1,sabaneta vereda las lomitas
+280000000,28000,129,5,3,0,medellin robledo cordoba
+165000000,16500,110,4,2,0,medellin centro cundinamarca
+310000000,31000,92,3,2,1,medellin los colores
+190000000,19000,160,3,2,0,medellin barrio cristobal
+285000000,28500,99,3,3,1,envigado los naranjos
+245000000,24500,135,4,2,0,medellin robledo
+340000000,34000,100,3,2,1,medellin el poblado
+300000000,30000,145,3,2,1,medellin la pilarica
+340000000,34000,90,3,2,1,medellin loma de los bernal
+350000000,35000,92,3,2,2,envigado loma de cumbres
+280000000,28000,130,5,3,2,medellin el velodromo
+260000000,26000,100,4,3,0,envigado el dorado
+260000000,26000,110.17,3,2,1,medellin la castellana
+350000000,35000,134,3,3,1,medellin los colores
+240000000,24000,93,3,2,2,medellin calasanz
+245000000,24500,93,3,2,1,medellin belen rosales
+155000000,15500,110,4,2,1,medellin girardot
+320000000,32000,110,3,3,1,sabaneta holanda
+160000000,16000,130,5,2,0,medellin pedregal
+215000000,21500,97,3,2,0,medellin suroccidente
+240000000,24000,96,4,2,1,medellin santa monica
+289000000,28900,94,3,2,1,envigado el dorado
+300000000,30000,108,3,2,1,sabaneta entreamigos
+280000000,28000,200,4,2,0,medellin buenos aires
+190000000,19000,140,3,3,0,itagui santa maria
+290000000,29000,90,3,2,1,envigado la paz
+245000000,24500,150,3,3,0,envigado la paz
+175000000,17500,92,3,2,1,envigado la paz
+240000000,24000,90,3,2,1,envigado suramericana
+340000000,34000,140,3,3,0,envigado el trianon
+280000000,28000,110,3,2,0,sabaneta aves maria
+310000000,31000,94,3,2,1,medellin loma de los bernal
+300000000,30000,106,3,3,0,envigado el dorado
+235000000,23500,94,3,3,1,envigado envigado loma del chocho
+340000000,34000,100,4,2,2,medellin conquistadores
+190000000,19000,110,3,2,0,medellin belen
+220000000,22000,112,3,2,0,medellin guayabal
+295000000,29500,95,4,2,1,la-estrella suramerica
+230000000,23000,112,3,2,0,medellin centro
+320000000,32000,110,3,2,0,sabaneta aves marias
+305000000,30500,92,3,2,0,sabaneta aves marias
+172000000,17200,168,4,2,0,medellin san antonio de prado
+350000000,35000,97,3,3,1,envigado alcala
+350000000,35000,100,3,3,1,envigado alcala
+350000000,35000,105,3,2,1,envigado alcala
+350000000,35000,100,3,2,0,medellin simon bolivar
+325000000,32500,101,3,2,0,envigado andalucia
+135000000,13500,100,4,2,0,medellin buenos aires
+260000000,26000,160,3,2,0,medellin barrio santafe
+300000000,30000,116,3,3,1,sabaneta los alcazares
+340000000,34000,154,3,3,1,envigado el dorado
+240000000,24000,98,3,2,1,envigado el portal
+298000000,29800,98,3,2,1,medellin loma de los bernal
+210000000,21000,94,3,2,0,envigado b margaritas
+310000000,31000,115,3,2,1,envigado la magnolia
+320000000,32000,160,4,3,0,sabaneta sabaneta
+277000000,27700,110,3,2,1,envigado barrio mesa
+160000000,16000,98,3,2,0,medellin belen san bernardo
+330000000,33000,122,3,2,1,sabaneta aves maria
+325000000,32500,106,3,2,0,sabaneta aves marias
+285000000,28500,116,4,3,1,medellin simon bolivar
+290000000,29000,140,4,3,1,medellin calasanz
+220000000,22000,91,3,2,0,la-estrella alameda
+350000000,35000,94,4,3,1,envigado otra parte
+335000000,33500,97,3,2,1,medellin simon bolivar
+254000000,25400,142,4,3,0,medellin los colores
+280000000,28000,95,3,2,0,itagui suramerica
+310000000,31000,110,3,2,0,medellin laureles
+270000000,27000,130,3,2,0,medellin santa monica
+340000000,34000,92,3,2,0,sabaneta aves maria
+270000000,27000,90.5,3,2,1,medellin laureles
+190000000,19000,107,3,2,0,medellin belen
+320000000,32000,104,3,3,1,medellin belen loma de los bernal
+290000000,29000,90,3,2,1,envigado la paz
+320000000,32000,101,3,2,2,envigado ciudadela real
+290000000,29000,95,3,2,1,la-estrella suramerica
+305000000,30500,110,3,3,1,medellin conquistadores
+270000000,27000,106,4,3,1,medellin simon bolivar
+345000000,34500,150,4,3,1,medellin estadio
+240000000,24000,99,4,3,1,medellin la castellana
+185000000,18500,94,3,2,0,medellin belen
+270000000,27000,126,3,2,0,envigado las flores
+340000000,34000,118,3,3,1,medellin belen loma de los bernal
+290000000,29000,130,3,2,1,envigado envigado los naranjos
+335000000,33500,91.77,3,2,1,sabaneta aves maria
+310000000,31000,113,3,2,1,medellin simon bolivar
+295000000,29500,92,3,2,1,envigado barrio mesa
+300000000,30000,134,4,3,0,medellin la mota
+187000000,18700,107,3,2,0,medellin belen san bernardo
+285000000,28500,90,3,2,1,medellin loma de los bernal
+310000000,31000,100,3,3,1,envigado la frontera
+250000000,25000,141,3,2,0,medellin villa hermosa
+340000000,34000,100,4,3,2,envigado loma de las brujas
+330000000,33000,94,3,2,0,envigado escobero
+200000000,20000,112,4,2,0,medellin suroccidente
+350000000,35000,99,3,3,1,envigado loma del esmeraldal
+242000000,24200,93,3,3,1,medellin calasanz
+190000000,19000,180,4,2,0,medellin prado
+320000000,32000,92,3,2,1,medellin laureles
+120000000,12000,100,5,2,0,medellin robledo
+300000000,30000,117,3,3,1,sabaneta cerca al parque
+195000000,19500,102,4,3,0,medellin calasanz
+290000000,29000,128,4,2,1,medellin centro
+310000000,31000,90,3,2,1,medellin loma de los bernal
+180000000,18000,98,3,2,0,medellin aranjuez
+350000000,35000,92,3,2,1,envigado las brujas
+340000000,34000,97,3,2,2,envigado envigado camino verde
+280000000,28000,101,3,2,0,medellin la castellana
+260000000,26000,110,3,3,2,medellin los colores
+170000000,17000,168,4,2,0,medellin jesus nazareno
+290000000,29000,103,3,2,0,medellin la america
+258000000,25800,120,3,3,0,medellin laureles
+185000000,18500,115,4,3,0,medellin carretero
+180000000,18000,158,4,2,0,medellin belen
+265000000,26500,135,3,2,1,medellin boston
+130000000,13000,90,4,2,0,medellin robledo
+328000000,32800,127,3,2,1,sabaneta la doctora
+190000000,19000,110,4,2,2,itagui yarumito
+160000000,16000,90,4,2,0,medellin robledo
+260622212,26062,90,3,3,1,medellin la mota
+280000000,28000,100,3,2,0,medellin calasanz
+270000000,27000,103.64,4,3,1,medellin simon bolivar
+325000000,32500,90,3,2,1,medellin belen loma de los bernal
+200000000,20000,106,3,2,1,medellin la america
+280000000,28000,138,4,2,1,medellin calasanz
+175000000,17500,97,4,2,0,envigado el trianon
+265000000,26500,106,3,2,1,envigado envigado los naranjos 2
+350000000,35000,90,3,2,1,sabaneta loma de san jose
+270000000,27000,102,3,2,0,sabaneta entreamigos
+340000000,34000,133,3,3,1,medellin florida nueva
+310000000,31000,118,4,3,1,medellin laureles
+170000000,17000,160,4,2,0,medellin aranjuez
+330000000,33000,92,3,2,1,sabaneta san pio
+265000000,26500,110,3,3,0,medellin la castellana
+250000000,25000,90,3,3,0,medellin florida nueva
+260000000,26000,92,3,2,1,medellin la pilarica
+315000000,31500,137,4,2,1,medellin loma de los bernal
+300000000,30000,149,3,2,1,medellin conquistadores
+270000000,27000,90,3,2,0,medellin belen
+325000000,32500,140,3,2,1,la-estrella la ferreria
+320000000,32000,91,3,3,1,medellin belen loma de los bernal
+300000000,30000,132,5,2,2,medellin la castellana
+300000000,30000,149,3,3,1,medellin conquistadores
+300000000,30000,90,4,3,1,medellin la mota
+310000000,31000,108,5,3,0,itagui santa maria n 1
+350000000,35000,158,4,2,0,envigado alcala
+310000000,31000,134,3,2,0,sabaneta aves maria
+305000000,30500,99,3,2,1,sabaneta aves maria
+350000000,35000,115,4,2,1,envigado bosques de zuÃ±iga
+290000000,29000,114,4,2,0,itagui san gabriel
+300000000,30000,114,3,3,1,envigado trianon
+320000000,32000,112,3,3,2,medellin loma de los bernal
+350000000,35000,91,3,2,0,medellin poblado
+330000000,33000,112,3,3,2,sabaneta aves marias
+300000000,30000,124,4,3,1,medellin villa nueva
+260000000,26000,140,4,3,1,medellin calasanz
+280000000,28000,165,4,3,1,medellin centro de medellin
+290000000,29000,130,3,2,1,envigado las antillas
+310000000,31000,110,3,2,1,medellin laureles
+310000000,31000,110,3,2,1,medellin laureles
+350000000,35000,127,3,3,2,medellin laureles
+290000000,29000,115,3,2,1,medellin simon bolivar
+330000000,33000,95,3,3,1,envigado otra parte
+277000000,27700,92,3,2,0,medellin simon bolivar
+215000000,21500,153,4,2,0,medellin belen san bernardo
+260000000,26000,97,3,3,0,envigado el dorado
+350000000,35000,122,3,3,1,medellin loma de los bernal
+263000000,26300,130,4,3,0,medellin estadio
+285000000,28500,95,3,2,0,sabaneta aves maria
+265000000,26500,110,3,2,1,envigado el consuelo
+340000000,34000,145,4,3,2,medellin san javier
+330000000,33000,93,3,2,0,envigado loma del escobero
+150000000,15000,96,4,2,0,itagui guayabalia
+340000000,34000,198,4,2,0,medellin calasanz
+350000000,35000,95,3,2,1,envigado alcala
+255000000,25500,92,4,3,2,medellin la floresta
+340000000,34000,108,3,3,0,medellin belen la gloria
+350000000,35000,90,3,2,0,envigado cumbres
+270000000,27000,147,3,2,0,medellin el salvador
+339000000,33900,95,3,2,1,medellin la floresta
+250000000,25000,90,3,2,1,envigado las flores
+187000000,18700,97,3,2,0,itagui parque obrero
+325000000,32500,104,3,3,1,medellin loma de los bernal
+270000000,27000,97,3,2,1,medellin belen la mota
+200000000,20000,117,3,2,0,medellin la america
+325000000,32500,97,3,3,1,medellin belen la palma
+250000000,25000,92,4,2,1,medellin simon bolivar
+125000000,12500,90,3,2,0,medellin el salvador
+340000000,34000,92,3,3,1,envigado el esmeraldal
+158000000,15800,96,4,2,0,medellin robledo
+155000000,15500,98,4,3,0,medellin buenos aires
+335000000,33500,94,3,2,1,medellin simon bolivar
+345000000,34500,115,4,2,1,envigado zuÃ±iga
+215000000,21500,90,5,2,1,medellin belen la palma
+298000000,29800,100,3,3,1,envigado el portal
+330000000,33000,95,4,3,1,envigado otra parte
+250000000,25000,110,4,2,0,medellin buenos aires
+310000000,31000,95,3,2,1,medellin laureles
+340000000,34000,91,3,3,2,medellin loma de los bernal
+350000000,35000,99.76,3,2,1,medellin suroriente
+300000000,30000,130,5,2,0,medellin campo amor
+350000000,35000,92,3,2,1,envigado la paz
+280000000,28000,90,3,2,1,envigado envigado
+298000000,29800,100,3,3,1,envigado el portal
+340000000,34000,96,3,2,1,envigado loma del esmaraldal
+320000000,32000,128,5,3,1,medellin calasanz
+235000000,23500,113,4,2,1,medellin santa lucia
+330000000,33000,165,3,3,0,medellin floresta
+210000000,21000,92,4,2,0,sabaneta paso ancho
+340000000,34000,90,3,2,1,la-estrella la-estrella
+340000000,34000,90,3,2,0,medellin laureles nogal
+350000000,35000,107,4,2,1,envigado las antillas
+180000000,18000,118,3,2,0,medellin buenos aires
+350000000,35000,119,3,3,2,medellin loma de los bernal
+340000000,34000,134,3,3,1,medellin los colores
+350000000,35000,94,4,2,2,medellin belen
+300000000,30000,94,3,2,1,medellin belen loma de los bernal
+345000000,34500,160,3,3,2,medellin belen
+150000000,15000,142,4,2,0,medellin robledo
+185000000,18500,92,4,2,0,medellin santa monica
+255000000,25500,115,3,2,0,medellin robledo
+265000000,26500,120,4,2,1,medellin robledo
+350000000,35000,107,4,2,1,envigado las antillas
+280000000,28000,176,5,3,0,medellin boston
+300000000,30000,190,3,2,0,medellin la candelaria
+330000000,33000,138,3,3,0,medellin calasanz
+320000000,32000,120,3,2,0,medellin robledo
+310000000,31000,116,3,2,1,medellin la mota
+155000000,15500,100,4,2,0,medellin manrique central
+348000000,34800,135,3,2,0,medellin laureles
+350000000,35000,164,4,3,2,medellin laureles
+300000000,30000,90,3,2,0,itagui la independencia
+158000000,15800,105,3,2,0,medellin san javier
+350000000,35000,98,3,2,0,envigado otraparte
+340000000,34000,120,3,3,1,medellin belen aliadas
+240000000,24000,114,3,2,0,medellin florida nueva
+270000000,27000,90,3,2,1,medellin laureles
+320000000,32000,156,4,2,1,medellin prado
+295000000,29500,142,3,3,0,medellin san diego
+300000000,30000,90,3,2,1,medellin suroriente
+320000000,32000,92,3,2,0,envigado el trianon
+350000000,35000,117,3,2,1,sabaneta aves marias
+350000000,35000,118,4,3,2,medellin pilarica
+190000000,19000,102,3,2,0,medellin buenos aires
+170000000,17000,100,4,2,0,envigado canalizacion
+285000000,28500,104,3,2,0,envigado alcala
+350000000,35000,133,5,2,1,medellin santa lucia
+200000000,20000,120,3,2,0,medellin boston
+200000000,20000,140,3,2,0,medellin barichara san a de prado
+340000000,34000,134,3,3,1,medellin los colores
+250000000,25000,132,4,2,0,medellin santa fe
+350000000,35000,97,3,3,1,envigado alcala
+295000000,29500,93,3,2,1,sabaneta la doctora
+290000000,29000,140,4,3,1,medellin calasanz
+295000000,29500,100,3,2,0,medellin la magnolia
+220000000,22000,110,3,2,0,medellin la america
+300000000,30000,103,4,3,1,medellin belen aliadas
+310000000,31000,110,3,2,1,medellin laureles
+298000000,29800,125,3,3,0,medellin san joaquin
+320000000,32000,118,4,3,1,medellin carlos e restrepo
+300000000,30000,110,3,2,0,sabaneta villas del carmen
+290000000,29000,90,3,2,1,envigado barrio mesa
+339000000,33900,113,3,3,1,sabaneta aves maria
+237000000,23700,110,4,3,0,medellin rodeo alto
+310000000,31000,110,3,2,1,medellin laureles
+260000000,26000,140,5,2,0,medellin belen san bernardo
+170000000,17000,120,3,3,0,medellin robledo
+240000000,24000,105,3,2,0,sabaneta virgen del carmen
+250000000,25000,135,4,3,0,medellin florida nueva
+225000000,22500,180,5,2,0,medellin centro
+170000000,17000,90,4,2,0,sabaneta entreamigos
+330000000,33000,100,3,2,2,medellin laureles
+240000000,24000,135,3,3,0,medellin buenos aires
+350000000,35000,96,3,2,1,medellin loma de los bernal
+190000000,19000,93,3,2,0,medellin buenos aires
+280000000,28000,127,4,2,0,medellin belen la palma
+180000000,18000,132,4,2,0,medellin buenos aires
+260000000,26000,150,4,3,0,medellin buenos aires
+270000000,27000,130,3,2,0,medellin gratamira
+280000000,28000,200,3,2,0,medellin caicedo
+350000000,35000,110,3,3,0,medellin belen la mota
+280000000,28000,114,4,3,1,medellin belen
+350000000,35000,95,3,3,1,envigado alcala
+270000000,27000,110,3,2,0,medellin belen
+170000000,17000,97,3,2,0,medellin centro
+300000000,30000,102,3,3,1,envigado el portal
+305000000,30500,110,3,2,1,medellin conquistadores
+310000000,31000,120,3,3,0,la-estrella la-estrella
+185000000,18500,103,3,2,0,medellin aranjuez
+220000000,22000,150,5,2,0,medellin el salvador
+335000000,33500,95,3,2,1,medellin floresta
+340000000,34000,143,4,2,2,medellin la castellana
+330000000,33000,98,3,2,1,medellin laureles
+270000000,27000,110,3,3,1,itagui santa catalina
+240000000,24000,139,4,2,0,itagui santa maria n 2
+280000000,28000,104,3,2,0,envigado barrio obrero
+340000000,34000,180,3,3,0,envigado la paz
+275000000,27500,96,3,2,1,envigado barrio obrero
+300000000,30000,145,5,2,0,medellin miraflores
+150000000,15000,110,4,2,0,medellin robledo
+265000000,26500,120,3,2,1,medellin la castellana
+230000000,23000,120,4,2,0,medellin villa hermosa
+320000000,32000,150,4,2,0,medellin laureles
+170000000,17000,117,3,3,0,sabaneta san joaquin
+280000000,28000,170,4,2,0,medellin san javier
+191000000,19100,90,4,2,0,medellin loma del indio
+280000000,28000,122,3,2,0,medellin velodromo
+230000000,23000,106,3,3,0,medellin floresta
+285000000,28500,92,3,2,1,envigado seÃ±orial
+270000000,27000,93,3,2,1,envigado alcala
+275000000,27500,100,4,2,1,sabaneta aves marias
+285000000,28500,130,4,2,1,envigado san rafael
+350000000,35000,106,3,2,1,envigado aburra sur
+290000000,29000,94,3,2,1,medellin belen la mota
+350000000,35000,150,4,2,0,sabaneta calle larga
+219000000,21900,90,4,3,0,medellin buenos aires
+280000000,28000,95,3,2,1,sabaneta aves maria
+320000000,32000,143,3,2,1,medellin belen
+315000000,31500,175,5,3,0,medellin florida nueva
+210000000,21000,180,4,2,0,medellin santa monica
+310000000,31000,120,5,3,0,envigado alcala
+270000000,27000,130,4,2,0,medellin belen
+350000000,35000,90,3,2,1,medellin belen
+265000000,26500,106,3,2,1,sabaneta aves maria
+300000000,30000,97,4,3,1,envigado escobero
+320000000,32000,135,3,3,0,envigado la abadia
+260000000,26000,105,3,3,1,medellin la castellana
+320000000,32000,111,3,2,1,medellin la gloria
+295000000,29500,100,3,2,1,envigado el portal
+255000000,25500,112,3,3,0,medellin simon bolivar
+180000000,18000,92,3,2,0,itagui itagui
+260000000,26000,138,3,3,0,medellin miravalle
+295000000,29500,95,3,3,1,medellin florida nueva
+250000000,25000,115,4,2,1,medellin san javier
+300000000,30000,105,3,2,1,medellin laureles conquistadores castellana
+205000000,20500,106,4,2,0,itagui simon bolivar
+200000000,20000,95,3,2,0,medellin cristo rey
+350000000,35000,99,3,2,1,medellin loma de ios bernal
+180000000,18000,100,3,2,0,medellin florida nueva
+250000000,25000,96,3,2,1,medellin belen
+345000000,34500,160,3,3,2,medellin la mota
+330000000,33000,127,3,2,1,medellin san joaquin
+290000000,29000,150,3,3,1,medellin santa monica
+280000000,28000,149,3,3,0,medellin floresta
+307000000,30700,110,3,2,1,medellin laureles
+350000000,35000,90,3,2,0,envigado alcala
+255000000,25500,100,3,3,0,medellin simon bolivar
+150000000,15000,150,4,2,0,medellin robledo
+300000000,30000,103,4,3,1,medellin belen
+350000000,35000,151,3,3,0,medellin conquistadores
+145000000,14500,113,3,2,0,itagui bariloche
+310000000,31000,180,4,3,1,itagui suramerica
+230000000,23000,133,5,2,0,medellin el salvador
+319000000,31900,95,3,2,1,medellin laureles
+230000000,23000,117,3,2,0,medellin guayabal
+230000000,23000,102,3,2,0,itagui villa paula
+235000000,23500,96,3,2,0,medellin belen la mota
+295000000,29500,95,3,2,1,la-estrella suramerica
+160000000,16000,98,3,3,0,medellin robledo
+300000000,30000,130,4,2,0,envigado barrio mesa
+280000000,28000,147,3,2,1,envigado mesa
+265000000,26500,129,5,3,0,medellin sevilla
+280000000,28000,140,3,3,0,medellin el poblado
+330000000,33000,112,3,3,1,sabaneta aves maria
+332000000,33200,90,3,2,1,envigado cumbres
+290000000,29000,112,4,2,0,la-estrella la aldea
+210000000,21000,140,4,2,0,medellin guayabal
+220000000,22000,120,4,3,0,itagui simon bolivar
+340000000,34000,90,3,2,1,medellin laureles
+300000000,30000,99,3,2,1,sabaneta sabaneta
+340000000,34000,112,3,3,1,envigado envigado
+345000000,34500,113,3,3,1,envigado envigado
+280000000,28000,90,3,2,1,sabaneta sabaneta
+330000000,33000,100,3,2,1,sabaneta aves marias
+180000000,18000,115,3,2,0,medellin buenos aires
+280000000,28000,96,3,2,0,envigado barrio mesa
+350000000,35000,110,3,2,0,sabaneta villas del carmen
+330000000,33000,90,3,3,1,la-estrella sur america
+320000000,32000,100,3,2,1,sabaneta aves maria
+125000000,12500,92,3,2,0,medellin trinidad
+330000000,33000,95,3,2,0,medellin la floresta
+140000000,14000,99,3,2,0,medellin san javier
+185000000,18500,90,4,2,1,medellin loma del indio
+330000000,33000,128,4,3,1,medellin calasanz
+320000000,32000,127,3,3,1,sabaneta aves maria
+330000000,33000,130,4,2,0,medellin belen
+350000000,35000,90,3,2,1,medellin belen
+287000000,28700,90,3,3,1,medellin belen
+260000000,26000,119,3,2,0,medellin la magnolia
+315000000,31500,90,3,2,0,envigado el esmeraldal
+270000000,27000,97,3,2,1,medellin calasanz
+240000000,24000,107,3,2,0,medellin boston
+230000000,23000,112,4,2,0,medellin suroriente
+320000000,32000,132,5,2,3,medellin la castellana
+280000000,28000,127,4,2,0,medellin belen
+300000000,30000,93,3,2,0,envigado loma del escobero
+280000000,28000,97,3,2,1,medellin calasanz
+219000000,21900,90,4,3,0,medellin buenos aires
+240000000,24000,106,4,3,0,envigado las cometas
+184000000,18400,94,3,2,0,medellin san bernardo
+185000000,18500,150,4,2,0,medellin centro
+310000000,31000,120,5,2,1,envigado alcala
+350000000,35000,129,3,3,1,sabaneta aves maria
+260000000,26000,112,3,3,0,sabaneta sabaneta
+280000000,28000,114,4,2,0,medellin campo amor noel
+230000000,23000,118,3,2,0,medellin prado
+190000000,19000,93,3,2,0,medellin buenos aires
+140000000,14000,90,3,2,0,medellin san javier
+320000000,32000,125,3,2,0,medellin unica
+345000000,34500,115,4,2,1,envigado zuÃ±iga
+300000000,30000,98,3,2,1,medellin calasanz
+178000000,17800,94,3,2,0,medellin san bernardo
+250000000,25000,113,3,2,0,medellin boston
+280000000,28000,142,3,3,1,envigado el dorado
+170000000,17000,114,4,2,0,itagui santa maria
+255000000,25500,127,4,2,2,medellin campo valdes
+337000000,33700,90,3,2,2,envigado antillas
+260000000,26000,112,4,2,0,itagui viviendas del sur
+330000000,33000,128,3,3,1,medellin simon bolivar
+288000000,28800,90,3,2,1,medellin calasanz
+338000000,33800,148,3,3,1,medellin belen rosales
+150000000,15000,95,3,2,0,medellin boston
+220000000,22000,98,3,2,0,envigado la magnolia
+230000000,23000,200,5,2,0,medellin prado
+250000000,25000,93,3,2,1,envigado alto de las flores
+190000000,19000,90,3,2,0,itagui cerca al parque
+280000000,28000,168,3,3,0,medellin centro
+130000000,13000,91,3,2,0,medellin villa hermosa
+211000000,21100,160,3,2,0,medellin manrique
+340000000,34000,90,3,2,0,envigado el portal
+290000000,29000,130,4,2,1,medellin buenos aires
+220000000,22000,92,3,2,0,medellin campo valdes
+298000000,29800,125,4,3,1,medellin estadio
+330000000,33000,100,3,2,0,medellin la castellana
+350000000,35000,118,3,2,1,medellin la pilarica
+280000000,28000,102,3,2,1,medellin suroccidente
+340000000,34000,97,3,3,3,sabaneta sabaneta san jose
+265000000,26500,94,4,3,0,medellin el velodromo
+270000000,27000,126,3,3,1,medellin san joaquin
+260000000,26000,98,4,2,0,medellin lopez de mesa
+322000000,32200,107,3,2,1,envigado andalucia
+330000000,33000,160,5,3,0,medellin belen las margaritas
+340000000,34000,94,3,2,1,envigado el esmeraldal
+350000000,35000,135,3,3,1,envigado loma esmeraldal
+250000000,25000,200,4,2,0,medellin buenos aires
+190000000,19000,100,3,2,1,medellin noroccidente
+350000000,35000,120,3,3,0,medellin la mota
+280000000,28000,104,3,3,1,sabaneta sabaneta
+230000000,23000,200,5,2,0,itagui la raya
+350000000,35000,102,3,2,0,la-estrella pueblo viejo
+200000000,20000,150,5,2,0,medellin suroriente
+280000000,28000,96,3,2,1,envigado barrio obrero
+350000000,35000,128,3,2,1,envigado abadia
+230000000,23000,106,4,3,0,envigado las cometas
+310000000,31000,91,3,3,0,medellin belen
+350000000,35000,117,3,2,1,sabaneta aves maria
+240000000,24000,120,4,2,1,medellin conquistadores
+350000000,35000,90,3,2,1,medellin belen
+310000000,31000,136,4,2,0,medellin boston
+200000000,20000,136,4,2,0,medellin malibu
+210000000,21000,106,3,2,0,medellin noroccidente
+138000000,13800,98,3,2,0,medellin castilla
+280000000,28000,99,3,2,1,medellin belen
+330000000,33000,130,3,2,1,envigado loma de benedictinos
+240000000,24000,115,4,3,0,sabaneta villas del carmen
+315000000,31500,120,3,2,1,medellin belen
+300000000,30000,93,3,2,1,envigado la cuenca
+202000000,20200,105,3,3,1,medellin robledo
+300000000,30000,130,3,2,2,medellin belen rosales
+345000000,34500,100,3,2,1,medellin laureles
+240000000,24000,97,4,3,1,medellin calasanz
+215000000,21500,95,4,2,1,medellin laureles
+275000000,27500,106,3,2,1,envigado barrio obrero
+350000000,35000,93,3,3,1,sabaneta sabaneta
+250000000,25000,110,3,2,0,medellin belen
+295000000,29500,105,3,3,1,medellin la america
+170000000,17000,95,3,2,0,medellin san bernardo
+300000000,30000,133,3,2,0,medellin laureles
+310000000,31000,138,4,2,0,medellin calasanz
+290000000,29000,164,4,3,0,medellin calasanz
+348000000,34800,117,3,3,1,sabaneta aves maria
+350000000,35000,112,3,2,0,sabaneta aves maria
+350000000,35000,103,3,2,0,sabaneta las lomitas
+230000000,23000,120,4,3,1,la-estrella salvatorianos
+350000000,35000,90,3,2,2,sabaneta vegas de san jose
+350000000,35000,147,4,3,1,envigado la paz
+300000000,30000,126,4,2,2,medellin belen rosales
+345000000,34500,92,3,2,1,medellin loma de los bernal
+340000000,34000,95,3,3,2,medellin simon bolivar
+233000000,23300,200,5,2,0,medellin la milagrosa
+250000000,25000,129,3,2,0,medellin robledo
+240000000,24000,109,3,3,0,medellin boston
+260000000,26000,92,3,2,0,envigado el dorado
+347000000,34700,92,3,2,1,medellin laureles
+325000000,32500,108,3,2,2,envigado zuÃ±iga
+210000000,21000,94,3,2,0,envigado zona centro
+330000000,33000,124,3,2,0,envigado alcal
+335000000,33500,110,3,2,0,medellin laureles
+320000000,32000,94,3,2,2,sabaneta san jose
+240000000,24000,107,4,2,0,medellin calasanz
+310000000,31000,120,3,3,1,la-estrella salvatorianos
+240000000,24000,110,3,3,0,medellin los colores
+350000000,35000,100,3,2,0,sabaneta sabaneta
+350000000,35000,93,3,2,1,sabaneta parque sabaneta
+330000000,33000,91,3,2,1,envigado cumbres
+335000000,33500,92,3,3,2,sabaneta aburra sur
+256000000,25600,103,3,2,0,envigado alcala
+300000000,30000,138,4,2,0,medellin calasanz
+350000000,35000,180,5,2,0,medellin belen
+210000000,21000,140,4,2,0,medellin guayabal
+260000000,26000,107,3,2,0,sabaneta entregamigos
+320000000,32000,115,3,3,1,sabaneta aves maria
+250000000,25000,95,4,3,1,medellin simon bolivar
+330000000,33000,128,3,3,1,medellin belen rosales
+240000000,24000,110,3,2,1,envigado barrio mesa
+310000000,31000,96,3,3,1,medellin belen rosales
+310000000,31000,100,3,3,1,envigado el portal
+330000000,33000,130,4,2,0,medellin belen
+240000000,24000,109,3,3,0,medellin boston
+240000000,24000,121,4,3,0,medellin belen la gloria
+298000000,29800,131,3,2,1,medellin la pilarica
+345000000,34500,160,4,3,2,medellin la mota
+175000000,17500,94,3,2,0,medellin san bernardo
+335000000,33500,108,3,3,0,medellin belen
+330000000,33000,130,3,2,1,medellin la pilarica
+350000000,35000,115,3,3,2,medellin belen
+300000000,30000,132,4,3,1,medellin belen aliadas
+220000000,22000,96,3,2,0,sabaneta aliadas del sur
+270000000,27000,116,4,3,0,medellin los colores
+190000000,19000,100,3,2,1,medellin centro
+260000000,26000,140,4,3,0,medellin campo valdes
+310000000,31000,104,3,3,1,envigado el dorado
+210000000,21000,97,3,2,0,medellin la america
+340000000,34000,99,3,2,1,medellin vegas de zuÃ±iga
+350000000,35000,99,3,2,1,medellin loma de los bernal
+350000000,35000,93,3,2,0,medellin sabaneta
+270000000,27000,91,3,2,0,medellin laureles
+350000000,35000,97,3,2,2,itagui suramerica
+325000000,32500,107,3,3,0,envigado jardines
+235000000,23500,94,3,3,1,envigado la inmaculada
+255000000,25500,90,3,2,0,medellin florida nueva
+350000000,35000,90,3,2,2,sabaneta loma san jose
+330000000,33000,107,3,3,0,medellin laureles
+280000000,28000,93,3,2,1,envigado alcala
+298000000,29800,125,3,2,0,medellin laureles
+350000000,35000,135,3,2,1,envigado esmeraldal
+190000000,19000,122,4,3,0,medellin centro
+260000000,26000,99,4,3,0,medellin la aguacatala
+220000000,22000,90,3,2,0,envigado la mina
+350000000,35000,92,3,2,2,envigado cumbres
+350000000,35000,120,3,2,1,medellin laureles
+250000000,25000,130,4,3,1,medellin santa monica
+300000000,30000,103,3,3,1,medellin belen
+190000000,19000,100,3,2,1,medellin la pilarica
+280000000,28000,112,4,3,0,sabaneta entreamigos
+215000000,21500,96,3,2,1,medellin florida nueva
+295000000,29500,115,3,3,0,sabaneta villas del carmen
+305000000,30500,150,3,3,1,medellin simon bolivar
+330000000,33000,100,3,2,2,medellin simon bolivar
+330000000,33000,100,3,2,2,medellin simon bolivar
+260000000,26000,187,5,3,0,medellin la america
+330000000,33000,99,3,3,1,envigado el dorado
+315000000,31500,91,3,2,0,sabaneta las lomitas
+330000000,33000,120,3,3,1,medellin calasanz
+170000000,17000,140,3,3,0,medellin robledo
+325000000,32500,135,3,3,1,envigado el esmeraldal
+210000000,21000,150,3,2,0,medellin prado
+300000000,30000,137,4,3,1,medellin laureles
+158000000,15800,90,3,2,0,envigado seÃ±orial
+270000000,27000,125,3,2,0,envigado el dorado
+305000000,30500,96,3,2,2,sabaneta vereda san jose
+210000000,21000,140,5,2,0,medellin buenos aires
+325000000,32500,116,3,2,2,envigado el portal
+200000000,20000,104,3,2,0,medellin florencia
+330000000,33000,110,4,2,1,medellin san joaquin
+345000000,34500,110,3,2,1,medellin la castellana
+320000000,32000,152,4,2,0,medellin belen
+270000000,27000,158,3,2,0,envigado el dorado
+280000000,28000,127,4,2,0,medellin belen
+305000000,30500,96,3,2,2,sabaneta san jose
+300000000,30000,112,3,2,0,envigado villa grande
+335000000,33500,120,4,3,0,envigado el dorado
+340000000,34000,97,3,2,0,envigado loma del chocho
+330000000,33000,158,4,2,0,medellin belen la palma
+350000000,35000,106,4,3,1,envigado loma de cumbres
+350000000,35000,156,5,2,1,medellin floresta
+320000000,32000,150,4,2,1,medellin robledo
+345000000,34500,90,3,2,1,medellin belen rosales
+302000000,30200,155,3,3,1,medellin laureles
+280000000,28000,180,4,3,0,medellin girardot
+288000000,28800,118,3,2,0,medellin la castellana
+310000000,31000,105,3,3,0,envigado primavera
+260000000,26000,111,3,3,1,medellin loma de los bernal
+210000000,21000,100,3,3,0,medellin floresta
+230000000,23000,150,3,2,0,medellin prado
+280000000,28000,177,4,3,0,medellin belen la palma
+260000000,26000,110,3,2,1,medellin laureles
+330000000,33000,102,3,2,1,medellin loma de los bernal
+340000000,34000,90,3,2,2,medellin calasanz
+300000000,30000,120,3,2,0,envigado barrio mesa
+278000000,27800,100,4,3,2,envigado zuÃ±iga
+280000000,28000,116,3,3,0,medellin envigado
+320000000,32000,165,4,3,0,medellin laureles
+270000000,27000,114,5,2,0,envigado la magnolia
+310000000,31000,150,3,3,1,la-estrella salvatorianos
+175000000,17500,97,4,2,0,envigado el trianon
+255000000,25500,96,3,3,0,envigado el dorado
+180000000,18000,114,3,2,0,medellin floresta
+175000000,17500,100,4,2,0,envigado las flores
+215000000,21500,110,3,2,0,envigado trianon
+220000000,22000,90,4,3,0,itagui la independencia
+275000000,27500,107,3,2,2,envigado la magnolia
+290000000,29000,124,3,2,1,medellin loma del indio
+340000000,34000,134,3,2,1,medellin los colores
+335000000,33500,110,3,2,0,medellin laureles
+255000000,25500,94,3,2,0,sabaneta calle del banco
+190000000,19000,128,5,2,0,medellin las palmas
+310000000,31000,96,4,3,0,medellin belen rosales
+285000000,28500,92,3,2,0,itagui itagui pilsen
+298000000,29800,125,3,3,0,medellin florida nueva
+343000000,34300,90,3,2,1,medellin belen loma de los bernal
+240000000,24000,100,3,2,1,envigado primavera
+280000000,28000,130,3,3,0,medellin la america
+350000000,35000,164,3,3,2,sabaneta aves maria
+260000000,26000,109,3,3,0,envigado el dorado
+330000000,33000,95,3,3,1,medellin simon bolivar
+135000000,13500,100,3,2,0,medellin el salvador
+350000000,35000,127,4,2,1,sabaneta aburra sur
+300000000,30000,96,3,2,1,medellin los colores
+244000000,24400,196,3,2,0,medellin guayabal
+350000000,35000,110,3,3,1,sabaneta aves maria
+350000000,35000,95,3,2,0,medellin la mota
+260000000,26000,103,3,2,1,envigado primavera
+295000000,29500,100,3,2,1,medellin la castellana
+290000000,29000,93,3,2,0,envigado primavera
+345000000,34500,136,3,3,0,medellin san diego
+305000000,30500,90,3,2,0,sabaneta calle nueva
+260000000,26000,90,3,3,0,envigado primavera
+280000000,28000,99,3,2,1,sabaneta aves maria
+320000000,32000,99,3,2,1,sabaneta alcazares
+305000000,30500,91,3,2,0,medellin floresta
+330000000,33000,98,3,2,1,medellin laureles
+310000000,31000,120,5,2,0,envigado alcala
+300000000,30000,115,3,2,0,envigado el dorado
+265000000,26500,91,3,2,1,medellin santa monica
+300000000,30000,100,4,2,0,envigado centro
+288000000,28800,146,4,3,2,medellin los colores
+270000000,27000,128,5,2,0,medellin belen san bernardo
+165000000,16500,100,3,2,0,medellin robledo
+278000000,27800,95,3,2,1,medellin loma de los bernal
+300000000,30000,99,3,2,1,medellin aves maria
+290000000,29000,112,4,2,0,medellin la america
+335000000,33500,90,3,2,0,la-estrella la aldea
+340000000,34000,144,5,3,0,medellin santa monica
+225000000,22500,121,4,2,0,medellin belen
+290000000,29000,140,3,2,1,medellin calasanz
+320000000,32000,160,4,3,0,medellin estadio
+350000000,35000,141,4,3,1,itagui suramerica
+250000000,25000,114,4,2,0,itagui santa maria n 2
+170000000,17000,110,3,2,1,medellin noroccidente
+250000000,25000,108,4,2,1,medellin laureles
+186000000,18600,94,3,2,0,medellin la gloria
+320000000,32000,98,3,2,1,medellin belen loma de los bernal
+290000000,29000,104,3,2,0,envigado loma las brujas
+226000000,22600,103,3,2,0,itagui simon bolivar
+310000000,31000,136,4,3,1,medellin miravalle
+308000000,30800,108,3,2,1,envigado la magnolia
+290000000,29000,121,3,2,1,medellin belen nueva villa del aburra
+350000000,35000,91,3,2,1,medellin suroriente
+330000000,33000,161,4,3,1,medellin belen
+195000000,19500,107,3,2,0,sabaneta zaratoga
+350000000,35000,91,3,2,1,envigado parque central
+330000000,33000,95,3,2,1,medellin loma de los bernal
+350000000,35000,180,3,3,1,medellin belen san bernardo
+350000000,35000,91,3,2,0,sabaneta loma de san jose
+270000000,27000,110,3,3,0,itagui suramerica
+260000000,26000,169,3,2,2,medellin centro
+300000000,30000,152,5,3,1,medellin la america
+310000000,31000,100,3,3,0,envigado el portal
+270000000,27000,126,4,3,1,medellin belen rosales
+140000000,14000,93,3,2,1,medellin campo valdes
+220000000,22000,112,3,2,0,envigado trianon
+250000000,25000,90,3,2,0,medellin florida nueva
+295000000,29500,100,3,2,1,envigado la magnolia
+330000000,33000,140,3,2,1,medellin castropol
+310000000,31000,122,3,2,2,medellin loma de los bernal
+280000000,28000,110,4,3,1,medellin el velodromo
+300000000,30000,100,3,2,1,sabaneta loma linda
+290000000,29000,107,4,3,1,medellin estadio
+315000000,31500,140,3,2,1,medellin camparola
+280000000,28000,180,5,3,1,medellin centro
+320000000,32000,94,3,2,1,envigado cumbres
+285000000,28500,96,4,3,1,medellin la castellana
+180000000,18000,95,4,2,0,medellin buenos aires
+330000000,33000,120,3,2,1,medellin calasanz
+320000000,32000,115,3,2,1,medellin belen
+190000000,19000,113,3,3,2,sabaneta las playas
+267000000,26700,109,3,2,0,envigado alcala
+315000000,31500,103,3,3,0,envigado zuÃ±iga
+250000000,25000,100,4,3,0,medellin el rodeo
+350000000,35000,91,3,2,3,medellin la mota
+320000000,32000,90,3,2,1,medellin laureles
+170000000,17000,150,3,2,0,medellin las palmas
+350000000,35000,108,3,3,1,medellin laureles
+290000000,29000,90,3,2,1,medellin calasanz
+300000000,30000,101,3,2,0,envigado el dorado
+280000000,28000,91,3,2,0,medellin laureles
+280000000,28000,130,4,2,0,medellin laureles
+298000000,29800,153,3,2,2,medellin san javier
+300000000,30000,120,3,3,1,medellin belen la mota
+270000000,27000,115,3,2,0,envigado la paz
+280000000,28000,106,4,3,0,envigado la inmaculada
+290000000,29000,130,3,3,0,envigado mesa
+160000000,16000,92,4,3,0,medellin robledo la campiÃ±a
+350000000,35000,157,5,3,1,medellin la floresta
+293000000,29300,135,4,3,1,medellin estadio
+320000000,32000,105,3,3,0,envigado camino verde
+180000000,18000,194,3,2,0,medellin robledo
+350000000,35000,122,3,2,0,envigado alcala
+225000000,22500,180,5,2,0,medellin prado
+350000000,35000,96,3,2,1,medellin conquistadores
+180000000,18000,100,4,2,0,medellin santa monica
+300000000,30000,150,4,3,0,medellin laureles santa monica
+350000000,35000,130,4,2,1,medellin belen
+320000000,32000,168.22,4,3,0,medellin belen
+320000000,32000,135,3,3,0,medellin conquistadores
+170000000,17000,105,3,2,0,medellin prado
+330000000,33000,110,3,2,0,medellin belen la mota
+340000000,34000,160,4,3,0,medellin belen aliadas
+161000000,16100,168,4,2,0,medellin san antonio de prado
+325000000,32500,105,3,3,0,envigado camino verde
+210000000,21000,105,4,2,0,medellin belen san bernardo
+300000000,30000,110,3,2,0,medellin laureles
+260000000,26000,117,4,3,1,medellin occidente
+325000000,32500,127,3,3,1,medellin occidente
+239000000,23900,112,3,2,1,sabaneta
+305000000,30500,110,3,2,1,medellin conquistadores
+275000000,27500,106,3,3,1,medellin simon bolivar
+350000000,35000,106,3,3,1,sabaneta alcazares
+335000000,33500,163,4,2,1,medellin la castellana
+285000000,28500,108,3,3,1,envigado cerca clinica de la policia
+300000000,30000,110,4,2,0,medellin jardin
+159000000,15900,140,5,2,0,medellin san javier
+350000000,35000,154,3,3,1,medellin la america
+286000000,28600,93,3,2,1,envigado san mateo
+280000000,28000,110,3,2,0,envigado alcala
+310000000,31000,107,3,2,0,envigado andalucia
+345000000,34500,115,3,2,0,medellin laureles
+270000000,27000,90,3,2,1,medellin el rodeo
+345000000,34500,115,3,2,0,medellin laureles
+330000000,33000,94,3,2,0,sabaneta san joaquin
+225000000,22500,108,4,2,1,medellin belen la palma
+267800000,26780,114,4,3,1,medellin belen
+250000000,25000,110,4,2,0,envigado san mateo
+288999995,28900,95,3,2,1,itagui suramerica
+300000000,30000,99,3,2,0,sabaneta aves maria
+285000000,28500,120,4,3,0,medellin carlos e restrepo
+350000000,35000,114,3,2,1,medellin el velodromo
+220000000,22000,118,3,2,0,envigado la magnolia
+350000000,35000,124,3,2,1,medellin velodromo
+320000000,32000,120,4,3,1,medellin belen
+165000000,16500,135,4,2,0,medellin buenos aires
+325000000,32500,170,3,3,0,medellin guayabal
+270000000,27000,110,4,2,0,envigado mesa
+320000000,32000,120,5,2,0,medellin buenos aires
+280000000,28000,136,3,2,0,medellin santa monica
+335000000,33500,90,3,2,0,itagui itagui
+265000000,26500,94,3,2,1,envigado margaritas
+300000000,30000,100,3,2,1,sabaneta aves maria
+280000000,28000,153,4,2,0,medellin calasanz
+330000000,33000,98,3,2,1,medellin occidente
+250000000,25000,117,3,2,1,itagui itagui santamaria
+182000000,18200,101,4,2,0,envigado seÃ±orial
+340000000,34000,92,3,3,0,envigado el esmeraldal
+216000000,21600,140,3,3,0,itagui santa maria
+225000000,22500,120,4,3,0,itagui simon bolivar
+240000000,24000,117,3,3,1,medellin belen nueva villa del aburra
+195000000,19500,96,4,3,1,medellin rodeo alto
+240000000,24000,92,3,2,0,envigado trianon
+330000000,33000,154,5,3,1,medellin prado
+332000000,33200,90,3,2,0,itagui itagui
+320000000,32000,140,4,3,0,envigado mesa
+183000000,18300,94,3,2,0,medellin la gloria
+190000000,19000,110,4,3,1,medellin boyaca las brisas
+225000000,22500,98,3,2,1,medellin la pilarica
+320000000,32000,116,4,3,1,medellin belen la palma
+245000000,24500,126,4,2,0,medellin boston
+320000000,32000,94,3,2,1,envigado cumbres
+170000000,17000,120,5,3,0,medellin gratamira
+270000000,27000,99,3,3,0,medellin santa maria de los angeles
+250000000,25000,105,4,3,0,envigado la inmaculada
+180000000,18000,90,3,2,0,medellin noroccidente
+310000000,31000,120,3,2,1,envigado obrero
+150000000,15000,100,4,2,0,medellin robledo
+290000000,29000,130,3,2,1,envigado las antillas
+300000000,30000,100,3,3,1,sabaneta aves maria
+330000000,33000,98,3,2,1,sabaneta aves maria
+290000000,29000,107,3,3,1,envigado orquideas
+270000000,27000,93,3,2,1,envigado alcala
+350000000,35000,90,3,2,1,sabaneta el trapiche
+310000000,31000,140,3,2,0,la-estrella la ferreria
+280000000,28000,111,3,2,2,envigado los naranjos
+315000000,31500,91,3,2,1,sabaneta aves maria
+295000000,29500,91,3,2,1,sabaneta aves maria
+350000000,35000,140,4,3,1,itagui yarumito
+330000000,33000,99,3,2,2,sabaneta aves maria
+335000000,33500,160,4,3,0,medellin belen
+320000000,32000,123,3,2,1,envigado el dorado
+350000000,35000,181,3,3,0,sabaneta entreamigos
+280000000,28000,90,3,2,1,envigado camino verde
+320000000,32000,103,3,3,1,medellin loma de los bernal
+350000000,35000,90,3,2,1,medellin san diego
+260000000,26000,102,4,2,0,envigado la paz
+260000000,26000,90,3,2,0,medellin florida nueva
+350000000,35000,112,3,3,0,envigado andalucia
+325000000,32500,126,3,3,0,envigado envigado
+190000000,19000,98,3,2,0,envigado la florida
+230000000,23000,120,4,3,0,medellin belen san bernardo
+330000000,33000,96,3,3,1,medellin simon bolivar
+280000000,28000,112,5,2,0,medellin florida nueva
+300000000,30000,90,3,2,0,sabaneta san joaquin
+310000000,31000,136,3,3,2,la-estrella suramerica
+340000000,34000,120,4,3,0,envigado envigado
+340000000,34000,160,4,3,0,medellin aliadas
+215000000,21500,150,4,2,0,medellin belen
+310000000,31000,100,3,2,0,envigado jardines
+350000000,35000,171,4,3,0,envigado mesa
+330000000,33000,154,5,3,1,medellin prado
+285000000,28500,114,4,2,0,medellin campo amor
+280000000,28000,91,3,2,1,sabaneta aves maria
+300000000,30000,96,3,2,1,medellin loma de los bernal
+350000000,35000,115,3,3,2,medellin conquistadores
+300000000,30000,113,5,2,0,envigado la magnolia
+170000000,17000,130,3,3,0,medellin aranjuez
+320000000,32000,104,4,3,0,medellin la pilarica
+325000000,32500,97,3,3,0,medellin belen division barrial
+230000000,23000,108,3,2,0,medellin guayabal
+280000000,28000,98,3,2,0,medellin santa monica
+300000000,30000,115,3,3,0,medellin laureles
+290000000,29000,170,4,2,0,medellin el salvador
+280000000,28000,113,3,3,0,medellin santa lucia
+240000000,24000,133,3,2,0,medellin campo amor noel
+280000000,28000,120,3,2,0,medellin santa lucia
+285000000,28500,112,3,2,0,medellin simon bolivar
+175000000,17500,100,4,2,0,medellin el salvador
+290000000,29000,90,3,3,0,medellin estadio
+200000000,20000,100,3,2,0,medellin guayabal
+210000000,21000,109,3,2,0,medellin guayabal
+250000000,25000,115,3,3,0,medellin envigado
+275000000,27500,90,3,2,0,sabaneta sabaneta
+195000000,19500,110,5,2,0,medellin buenos aires
+320000000,32000,120,5,3,0,medellin envigado
+270000000,27000,107,3,2,0,sabaneta sabaneta
+230000000,23000,107,3,2,0,medellin laureles
+180000000,18000,95,3,3,0,medellin envigado
+320000000,32000,135,4,3,0,medellin el salvador
+300000000,30000,100,3,2,0,medellin envigado
+300000000,30000,120,3,2,0,medellin envigado
+270000000,27000,93,3,2,0,medellin envigado
+260000000,26000,110,5,2,0,medellin envigado
+300000000,30000,137,3,2,0,medellin envigado
+340000000,34000,92,3,2,0,medellin envigado
+298000000,29800,125,3,3,0,medellin san joaquin
+310000000,31000,90,3,2,1,medellin loma de los bernal
+290000000,29000,105,4,3,0,medellin belen
+180000000,18000,105,4,2,0,medellin girardot
+350000000,35000,134,4,3,1,medellin belen la mota
+275000000,27500,90,3,2,1,envigado la paz
+320000000,32000,93,3,2,1,sabaneta centro
+345000000,34500,150,3,3,1,envigado el dorado
+340000000,34000,90,3,2,1,la-estrella aldea
+240000000,24000,100,3,3,1,medellin conquistadores
+180000000,18000,106,3,2,0,medellin san benito
+210000000,21000,110,3,2,0,medellin buenos aires
+245000000,24500,165,3,3,0,envigado el trianon
+170000000,17000,91,3,2,0,medellin centro
+133000000,13300,92,4,2,0,medellin la milagrosa
+195000000,19500,94,4,2,0,medellin santa monica
+280000000,28000,173,5,2,0,medellin robledo
+280000000,28000,120,4,2,0,medellin belen la palma
+350000000,35000,150,3,3,0,la-estrella suramerica
+270000000,27000,100,3,2,0,sabaneta aves maria
+300000000,30000,182,4,2,0,envigado mesa
+350000000,35000,94,3,3,2,medellin loma de los bernal
+320000000,32000,128,4,2,0,medellin calasanz
+210000000,21000,107,4,2,0,itagui simon bolivar
+260000000,26000,130,3,2,1,medellin laureles
+239000000,23900,140,3,2,1,medellin aranjuez
+350000000,35000,110,3,3,1,medellin laureles
+165000000,16500,112,4,2,1,medellin robledo
+290000000,29000,128,4,3,1,medellin belen la palma
+320000000,32000,98,3,2,1,medellin simon bolivar
+310000000,31000,125,5,3,1,medellin belen las mercedes
+260000000,26000,99,3,2,0,medellin boston
+330000000,33000,96,3,2,1,medellin la pilanca
+230000000,23000,102,4,2,0,envigado la magnolia
+277000000,27700,115,4,3,1,medellin laureles
+240000000,24000,142,3,3,0,envigado obrero
+190000000,19000,102,4,2,0,medellin buenos aires
+330000000,33000,101,3,2,2,sabaneta san jose
+260000000,26000,160,4,3,0,medellin campo valdes
+340000000,34000,130,3,3,0,envigado envigado la mesa
+170000000,17000,159,5,2,0,medellin aranjuez
+255000000,25500,95,3,2,1,medellin santa monica
+295000000,29500,131,3,2,2,medellin la pilarica
+310000000,31000,120,3,2,0,envigado envigado
+330000000,33000,114,3,2,1,itagui parques de santa catalina
+280000000,28000,105,3,2,0,la-estrella san agustin
+345000000,34500,160,4,3,2,medellin la mota
+260000000,26000,138,4,3,1,medellin calasanz
+330000000,33000,101,3,3,0,sabaneta san jose
+290000000,29000,155,5,2,0,medellin calasanz
+350000000,35000,93,3,2,0,sabaneta sabaneta
+210000000,21000,140,4,2,0,medellin guayabal
+220000000,22000,96,3,3,0,medellin boston
+340000000,34000,167,3,3,0,medellin floresta
+245000000,24500,126,4,2,0,medellin boston
+345000000,34500,156,3,3,1,medellin belen aliadas
+260000000,26000,101,4,3,1,medellin laureles
+180000000,18000,90,3,2,0,envigado jose felix de restrepo
+270000000,27000,120,3,2,0,medellin las palmas
+340000000,34000,167,4,3,0,medellin la floresta
+330000000,33000,92,3,2,2,envigado el portal
+310000000,31000,120,4,3,1,medellin la gloria
+300000000,30000,113,3,3,1,sabaneta urbanizacion san antonio 2
+280000000,28000,100,3,2,0,envigado magnolia
+300000000,30000,120,3,2,0,envigado envigado
+305000000,30500,117,4,3,1,medellin belen
+345000000,34500,108,3,2,0,medellin san joaquin
+275000000,27500,91,4,3,0,envigado la pradera
+290000000,29000,106,3,2,1,envigado san mateo
+310000000,31000,90,3,2,0,medellin loma del indio
+215000000,21500,153,4,2,0,medellin belen
+190000000,19000,107,3,2,0,medellin floresta
+255000000,25500,98,4,3,1,medellin la pilanca
+350000000,35000,135,3,2,1,envigado alcala
+210000000,21000,140,3,2,0,medellin santa lucia
+190000000,19000,96,3,2,0,medellin villa hermosa
+195000000,19500,120,4,2,2,itagui yarumito
+320000000,32000,100,3,2,0,envigado zuÃ±iga
+260000000,26000,168,5,3,1,medellin manrique
+280000000,28000,170,4,2,2,medellin belen cerro nutibara
+320000000,32000,120,3,2,1,envigado cumbres
+240000000,24000,114,4,2,1,medellin belen
+300000000,30000,135,5,2,0,medellin laureles
+185000000,18500,102,3,2,0,medellin centro
+350000000,35000,90,3,2,0,envigado loma de las brujas
+330000000,33000,97,4,3,2,sabaneta san jose
+260000000,26000,110,3,2,1,medellin laureles
+145000000,14500,100,3,2,0,medellin pedregal
+330000000,33000,130,3,2,0,medellin la floresta
+300000000,30000,92,3,2,1,medellin laureles
+350000000,35000,140,4,3,2,medellin simon bolivar
+295000000,29500,91,3,2,1,medellin suroccidente
+340000000,34000,99,3,2,1,medellin laureles
+350000000,35000,94,3,2,0,sabaneta centro
+240000000,24000,95,3,2,2,medellin laureles
+240000000,24000,114,4,2,1,medellin belen
+300000000,30000,112,3,2,1,itagui viviendas del sur
+330000000,33000,102,3,2,1,medellin florida nueva
+350000000,35000,140,4,3,2,medellin conquistadores
+200000000,20000,155,3,2,0,medellin manrique
+270000000,27000,107,3,2,0,sabaneta holanda
+310000000,31000,104,3,2,1,medellin la pilarica
+250000000,25000,100,3,3,1,medellin castellana
+220000000,22000,180,5,2,0,medellin prado
+330000000,33000,113,3,3,1,envigado las margaritas
+320000000,32000,94,3,3,0,sabaneta loma de san jose
+280000000,28000,100,4,3,1,medellin simon bolivar
+280000000,28000,100,3,2,1,sabaneta aves maria
+295000000,29500,91,3,2,0,sabaneta lomalinda
+320000000,32000,117,3,3,0,medellin estadio
+160000000,16000,106,3,3,0,medellin florida nueva
+230000000,23000,113,4,2,0,medellin santa lucia
+350000000,35000,105,5,2,1,medellin centro
+150000000,15000,90,3,2,0,medellin centro
+140000000,14000,98,3,2,0,medellin el salvador
+185000000,18500,94,3,2,0,medellin belen san bernardo
+280000000,28000,130,4,2,0,medellin belen miravalle
+270000000,27000,90,3,2,0,medellin simon bolivar
+345000000,34500,97,3,3,1,medellin el poblado
+350000000,35000,158,5,3,0,medellin simon bolivar
+205000000,20500,130,3,2,0,medellin belen las mercedes
+240000000,24000,107,3,2,1,medellin laureles
+320000000,32000,90,3,2,1,la-estrella la aldea
+350000000,35000,90,3,2,1,medellin laureles
+195000000,19500,150,4,2,0,medellin buenos aires
+165000000,16500,193,5,3,0,medellin villa hermosa
+270000000,27000,127,4,2,0,medellin santa monica
+280000000,28000,100,3,2,1,medellin santa monica
+300000000,30000,93,3,2,1,sabaneta sabaneta
+270000000,27000,114,4,3,0,medellin belen
+155000000,15500,93,4,2,0,medellin robledo
+335000000,33500,90,3,2,0,la-estrella arboleda de la-estrella
+215000000,21500,104,3,2,0,itagui sta maria del carmelo
+200000000,20000,139,3,3,0,medellin centro
+300000000,30000,96,3,2,1,sabaneta entreamigos
+150000000,15000,100,3,2,0,medellin manrique
+345000000,34500,99,3,2,1,medellin simon bolivar
+280000000,28000,95,3,2,1,envigado los naranjos
+280000000,28000,94,3,2,0,medellin simon bolivar
+300000000,30000,90,3,2,1,sabaneta calle larga
+285000000,28500,99,3,3,1,envigado los naranjos
+350000000,35000,102,3,2,0,envigado alcala
+260000000,26000,125,5,2,0,medellin manrique central 1
+190000000,19000,131,5,2,0,medellin buenos aires
+310000000,31000,110,3,2,1,sabaneta sabaneta
+330000000,33000,92,3,2,1,medellin belen la palma
+188000000,18800,113,3,2,0,medellin belen san bernardo
+340000000,34000,162,4,3,1,medellin belen aliadas
+156000000,15600,184,5,2,0,medellin las palmas
+230000000,23000,130,5,2,0,medellin boston
+220000000,22000,100,3,2,0,medellin la pilarica
+265000000,26500,94,3,2,1,medellin loma de los bernal
+335000000,33500,97,3,2,1,envigado alto de misael
+350000000,35000,125,4,3,2,medellin la pilarica
+348000000,34800,117,3,3,1,sabaneta aves maria
+270000000,27000,106,3,3,0,sabaneta los alcazares
+242000000,24200,100,3,2,0,medellin la pilarica
+345000000,34500,97,3,2,1,envigado cumbres
+330000000,33000,110,3,2,0,envigado alcala
+290000000,29000,110,3,2,1,medellin belen
+305000000,30500,175,4,3,0,medellin simon bolivar
+280000000,28000,110,4,3,1,envigado el trianon
+345000000,34500,156,3,2,1,medellin laureles
+250000000,25000,128,3,2,1,medellin bombona
+270000000,27000,178,4,2,0,medellin girardot
+180000000,18000,100,4,2,1,medellin robledo
+250000000,25000,95,3,2,1,sabaneta entreamigos
+260000000,26000,90,3,2,1,itagui suramerica
+170000000,17000,91,3,2,0,medellin san javier
+340000000,34000,170,5,3,0,medellin santa monica
+220000000,22000,105,3,2,1,medellin buenos aires
+285000000,28500,114,3,2,1,medellin belen la palma
+350000000,35000,157,4,3,1,medellin la floresta
+290000000,29000,138,3,2,1,medellin la america
+350000000,35000,115,3,2,1,sabaneta aves maria
+350000000,35000,102,3,2,1,envigado alcala
+340000000,34000,97,3,2,0,envigado colegio cumbres loma del chocho
+340000000,34000,170,5,3,0,medellin santa monica
+310000000,31000,113,3,2,2,medellin los colores
+260000000,26000,90,3,2,1,itagui suramerica
+320000000,32000,90,3,2,1,itagui suramerica
+180000000,18000,110,5,3,0,medellin robledo
+335000000,33500,95,3,3,1,envigado jardines de otra parte
+190000000,19000,91,3,3,0,medellin la america
+320000000,32000,99,3,2,1,sabaneta sabaneta
+300000000,30000,90,4,3,1,medellin san diego
+240000000,24000,118,3,2,0,medellin buenos aires
+280000000,28000,100,3,2,1,medellin belen san bernardo
+350000000,35000,140,3,3,2,medellin la mota
+285000000,28500,125,3,2,0,medellin la floresta
+280000000,28000,96,3,2,1,medellin simon bolivar
+322000000,32200,107,3,2,1,envigado la orquidea
+320000000,32000,106,3,3,2,medellin suroriente
+128000000,12800,90,4,2,0,medellin robledo
+250000000,25000,95,3,2,1,la-estrella suramerica
+325000000,32500,101,4,3,2,sabaneta loma de san jose
+345000000,34500,120,4,2,1,medellin santa monica
+320000000,32000,120,3,3,0,la-estrella salvatorinos
+285000000,28500,140,4,2,0,medellin belen
+320000000,32000,101,3,2,1,medellin suroccidente
+330000000,33000,95,4,2,1,envigado seÃ±orial
+225000000,22500,115,3,2,1,la-estrella ferreria
+340000000,34000,122.32,3,3,1,medellin los colores
+290000000,29000,100,3,3,0,medellin estadio
+225000000,22500,105,3,2,0,medellin belen
+250000000,25000,160,5,2,1,medellin suroccidente
+260000000,26000,115,3,2,1,medellin santa fe
+248000000,24800,110,4,3,1,medellin centro
+350000000,35000,115,3,2,1,medellin simon bolivar
+220000000,22000,135,3,2,0,medellin santa monica
+315000000,31500,109,3,2,1,envigado loma las flores
+350000000,35000,130,5,2,0,medellin san javier
+220000000,22000,113,3,2,0,medellin florida nueva
+285000000,28500,144,3,2,0,medellin belen
+298000000,29800,125,3,2,0,medellin san joaquin
+330000000,33000,107,3,2,0,envigado alcala
+330000000,33000,97,4,3,1,medellin belen la palma
+350000000,35000,122,3,2,0,sabaneta holanda
+330000000,33000,173,5,3,0,envigado envigado parque
+175000000,17500,110,4,2,0,medellin buenos aires
+300000000,30000,103,3,3,1,envigado las margaritas
+221000000,22100,105,3,2,0,medellin villa hermosa
+140000000,14000,120,3,3,0,medellin villa hermosa
+280000000,28000,135,4,2,0,medellin buenos aires
+205000000,20500,94,3,3,1,medellin belen los alpes
+280000000,28000,153,4,3,0,medellin belen alameda
+298000000,29800,105,3,3,0,itagui suramerica
+285000000,28500,96,3,2,1,medellin belen
+295000000,29500,115,3,2,2,medellin santa monica
+280000000,28000,120,3,2,0,medellin centro
+300000000,30000,135,3,2,1,medellin la candelaria
+210000000,21000,178,4,2,1,medellin alfonso lopez
+280000000,28000,97,3,2,1,medellin calasanz
+260000000,26000,136,3,2,1,medellin centro
+350000000,35000,113,4,3,0,medellin laureles
+157000000,15700,190,5,2,0,medellin las palmas
+250000000,25000,118,3,2,1,envigado loma del chocho
+230000000,23000,102,3,2,0,envigado obrero
+350000000,35000,120,3,3,2,medellin la mota
+265000000,26500,105,3,2,1,envigado los naranjos
+350000000,35000,100,3,2,0,envigado envigado
+350000000,35000,90,3,2,0,envigado envigado
+190000000,19000,91,3,3,0,medellin la america
+320000000,32000,90,4,3,0,envigado el trianon
+340000000,34000,92,3,2,1,sabaneta aves marias
+270000000,27000,116,4,2,0,medellin buenos aires
+175000000,17500,104,3,2,0,medellin prado
+340000000,34000,100,3,2,2,envigado la inmaculada
+220000000,22000,100,3,2,0,envigado la paz
+220000000,22000,135,3,3,0,medellin la floresta
+269000000,26900,95,3,2,1,sabaneta sabaneta
+275000000,27500,104,3,3,0,sabaneta hospital
+350000000,35000,107,4,3,1,medellin suramericana
+298000000,29800,200,4,3,0,medellin santa fe
+340000000,34000,92,3,2,1,medellin belen la palma
+270000000,27000,96,3,2,1,medellin la mota
+340000000,34000,113,3,3,0,envigado zuÃ±iga
+350000000,35000,97,3,2,0,sabaneta san jose
+330000000,33000,144,3,2,0,medellin la castellana
+180000000,18000,110,5,3,0,medellin robledo la campiÃ±a
+195000000,19500,100,4,2,0,medellin noroccidente
+330000000,33000,117,3,2,0,envigado otraparte
+240000000,24000,106,4,3,1,envigado envigado
+207000000,20700,98,3,2,0,envigado la paz
+330000000,33000,140,5,2,0,sabaneta villas del carmen
+345000000,34500,101,3,3,1,itagui suramerica
+260000000,26000,180,3,2,0,medellin belen san bernardo
+300000000,30000,120,4,2,0,medellin belen san bernardo
+280000000,28000,92,3,2,0,medellin simon bolivar
+350000000,35000,100,3,3,1,medellin loma de los bernal
+285000000,28500,114,4,2,0,medellin campo amor
+330000000,33000,93,3,2,0,sabaneta parque
+249000000,24900,98,4,2,0,medellin la floresta
+260000000,26000,180,5,3,0,medellin buenos aires
+310000000,31000,100,3,2,1,envigado zuÃ±iga
+270000000,27000,114,3,3,1,medellin belen la palma
+336000000,33600,112,4,3,1,envigado zuÃ±iga
+340000000,34000,125,3,2,0,sabaneta san joaquin
+345000000,34500,156,3,3,1,medellin laureles
+345000000,34500,106,3,2,1,envigado cumbres
+146000000,14600,105,4,2,0,medellin pedregal
+300000000,30000,111,3,2,0,envigado la magnolia
+260000000,26000,90,3,2,0,medellin estadio
+340000000,34000,128,3,3,1,sabaneta sabaneta
+348000000,34800,122.32,3,3,0,medellin los colores
+275000000,27500,107,3,2,2,envigado la magnolia
+240000000,24000,125,4,3,0,medellin campo amor
+265000000,26500,110,3,2,0,medellin la almeria
+290000000,29000,94,3,2,1,medellin la mota
+260000000,26000,109,3,3,0,envigado las cometas
+350000000,35000,97.25,3,2,2,sabaneta vereda san jose
+350000000,35000,112,3,3,1,medellin san joaquin
+330000000,33000,109,3,2,1,sabaneta aves maria
+285000000,28500,114,4,2,0,medellin guayabal
+290000000,29000,104,3,2,0,envigado alcala
+285000000,28500,127,4,2,0,medellin santa monica
+295000000,29500,94,3,2,1,envigado barrio mesa
+340000000,34000,106,4,3,1,envigado cumbres
+200000000,20000,90,3,2,0,envigado la magnolia
+268000000,26800,115,4,2,0,medellin villa hermosa
+312000000,31200,120,4,3,1,medellin conquistadores
+270000000,27000,95,3,2,0,medellin san diego
+350000000,35000,90,3,2,0,envigado cumbres
+330000000,33000,105,3,2,1,medellin laureles
+187000000,18700,107,3,2,0,medellin belen san bernardo
+193000000,19300,94,3,2,0,medellin belen san bernardo
+190000000,19000,100,3,2,0,medellin la america
+350000000,35000,103,4,3,1,medellin calasanz
+320000000,32000,94,3,2,1,envigado cumbres
+330000000,33000,105,3,3,0,envigado zuÃ±iga
+320000000,32000,148,3,3,0,envigado el trianon
+280000000,28000,106,3,2,0,sabaneta restrepo naranjo
+285000000,28500,127,4,2,0,medellin santa monica
+320000000,32000,90,3,2,1,envigado cumbres
+315000000,31500,92,3,2,2,sabaneta sabaneta
+310000000,31000,172,3,3,1,la-estrella la aldea
+290000000,29000,100,3,2,0,sabaneta aves marias
+335000000,33500,90,3,2,1,la-estrella la-estrella
+340000000,34000,112,3,3,1,envigado el portal
+270000000,27000,107,3,3,1,envigado la orquidea
+290000000,29000,100,3,2,2,sabaneta sabaneta
+350000000,35000,97,3,2,1,envigado camino verde
+350000000,35000,120,4,3,1,medellin la pilanca
+320000000,32000,105,3,3,0,envigado la salle
+192000000,19200,108,4,2,0,medellin rodeo alto
+235000000,23500,110,4,3,1,medellin rodeo alto
+235000000,23500,110,4,3,1,medellin rodeo alto
+322000000,32200,97,3,3,1,sabaneta aves marias
+187000000,18700,113,3,2,0,medellin belen
+316000000,31600,109,3,3,1,sabaneta sabaneta
+210000000,21000,107,4,2,0,medellin manrique
+190000000,19000,94,3,2,0,medellin belen san bernardo
+330000000,33000,120,3,2,0,sabaneta holanda
+240000000,24000,96,3,2,0,medellin floresta
+250000000,25000,120,4,3,1,medellin centro
+340000000,34000,96,3,2,1,envigado loma del esmeraldal
+330000000,33000,106,3,2,1,envigado cumbres
+295000000,29500,115,3,2,1,medellin simon bolivar
+195000000,19500,100,4,2,0,medellin belen
+310000000,31000,137,3,3,2,medellin estadio
+310000000,31000,92,3,3,1,medellin laureles
+171000000,17100,96,4,2,0,medellin la milagrosa
+220000000,22000,115,4,3,0,envigado el trianon
+320000000,32000,120,3,3,1,medellin simon bolivar
+240000000,24000,95,3,2,0,medellin belen la palma
+280000000,28000,165,3,3,0,medellin el salvador
+310000000,31000,100,3,2,0,sabaneta aves maria
+205000000,20500,96,4,2,1,sabaneta sabaneta
+250000000,25000,120,3,2,1,envigado envigado
+350000000,35000,99,3,2,2,sabaneta sabaneta
+197000000,19700,94,3,2,0,medellin belen
+340000000,34000,150,5,3,0,medellin simon bolivar
+190000000,19000,94,3,2,0,medellin belen
+330000000,33000,134,3,3,1,medellin laureles
+340000000,34000,150,5,3,0,medellin simon bolivar
+300000000,30000,150,4,3,1,medellin centro
+245000000,24500,160,5,2,0,medellin el salvador
+330000000,33000,96,3,3,2,medellin la mota
+180000000,18000,130,4,2,0,medellin buenos aires
+350000000,35000,170,4,2,0,envigado la magnolia
+240000000,24000,200,4,2,0,medellin el salvador
+230000000,23000,130,3,2,0,medellin centro
+315000000,31500,92,3,2,1,medellin laureles
+300000000,30000,100,3,2,1,medellin la castellana
+260000000,26000,90,3,2,1,medellin los colores
+250000000,25000,122,3,3,0,medellin centro
+340000000,34000,140,4,3,0,medellin simon bolivar
+265000000,26500,166,3,2,0,medellin el salvador
+230000000,23000,98,4,2,0,medellin la castellana
+260000000,26000,110,3,2,0,medellin carlos e restrepo
+350000000,35000,169,5,2,0,envigado la magnolia
+320000000,32000,93,4,2,0,medellin los colores
+170000000,17000,116,3,2,0,medellin buenos aires
+210000000,21000,90,4,2,1,medellin la loma del indio
+175000000,17500,90,4,3,0,medellin el rodeo
+337000000,33700,108,3,2,0,medellin laureles
+280000000,28000,119,4,2,0,envigado la paz
+250000000,25000,102,3,2,1,medellin florencia
+340000000,34000,138,4,3,2,medellin laureles
+230000000,23000,176,5,2,0,medellin buenos aires
+260000000,26000,130,3,3,0,medellin centro
+320000000,32000,168,5,3,0,medellin la castellana
+350000000,35000,93,3,3,1,medellin la castellana
+260000000,26000,113,3,2,1,medellin la palma
+300000000,30000,155,3,2,0,medellin belen parque
+250000000,25000,147,3,2,0,medellin belen san bernardo
+280000000,28000,90,3,2,0,medellin belen rosales
+280000000,28000,160,4,3,0,medellin belen parque
+350000000,35000,120,3,2,2,medellin conquistadores
+170000000,17000,126,4,2,0,medellin manrique
+350000000,35000,96,3,2,1,medellin loma de los bernal
+298000000,29800,92,3,2,0,envigado mesa
+205000000,20500,110,3,2,0,envigado loma del barro
+290000000,29000,112,3,3,0,medellin florida nueva
+340000000,34000,108,3,3,1,envigado loma de las brujas
+350000000,35000,105,3,2,1,medellin malibu
+285000000,28500,124,4,2,0,medellin san joaquin
+290000000,29000,92,4,3,0,envigado el escobero
+345000000,34500,90,3,2,0,medellin laureles
+220000000,22000,180,3,2,0,medellin centro
+230000000,23000,147,5,2,0,medellin la milagrosa
+160000000,16000,102,3,3,0,medellin centro
+210000000,21000,100,3,2,0,medellin el salvador
+330000000,33000,105,4,3,1,medellin laureles
+185000000,18500,115,3,2,0,medellin belen
+300000000,30000,140,4,2,0,itagui la independencia
+325000000,32500,180,3,2,0,medellin centro
+240000000,24000,188,5,3,1,medellin belen
+280000000,28000,179,5,3,0,medellin el salvador
+190000000,19000,177,5,2,0,medellin manrique
+350000000,35000,101,3,2,0,sabaneta vegas de san jose
+175000000,17500,131,5,2,0,medellin buenos aires
+280000000,28000,180,4,2,0,medellin villa hermosa
+220000000,22000,110,3,2,0,medellin centro
+290000000,29000,95,4,3,1,la-estrella suramericana
+235000000,23500,160,4,2,1,medellin santa monica
+280000000,28000,112,3,3,0,envigado envigado
+170000000,17000,95,5,3,0,medellin buenos aires
+150000000,15000,123,4,2,0,medellin buenos aires
+210000000,21000,140,4,2,0,medellin guayabal
+295000000,29500,152,3,2,0,medellin buenos aires
+275000000,27500,135,3,3,0,medellin el salvador
+260000000,26000,150,3,3,1,medellin simon bolivar
+350000000,35000,91,3,3,2,sabaneta pan de azucar
+307000000,30700,105,3,3,1,medellin santa monica
+250000000,25000,103,4,2,0,envigado zona centro
+330000000,33000,95,3,2,1,envigado los almendros seÃ±orial
+200000000,20000,93,3,2,0,sabaneta virgen del carmen
+340000000,34000,120,5,2,0,envigado alcala
+320000000,32000,150,4,2,0,medellin laureles
+330000000,33000,98,3,2,1,envigado av poblado
+210000000,21000,139,3,3,0,medellin centro
+320000000,32000,99,3,2,0,sabaneta aves maria
+188000000,18800,100,5,2,0,medellin girardot
+300000000,30000,144,5,2,0,medellin campo amor
+200000000,20000,100,4,2,0,medellin belen
+340000000,34000,115,4,2,1,envigado zuÃ±iga
+285000000,28500,138,5,3,1,medellin calasanz
+280000000,28000,114,3,3,0,envigado envigado
+290000000,29000,102,3,2,1,sabaneta loma san remo
+220000000,22000,150,3,3,0,medellin buenos aires
+290000000,29000,98,3,3,0,medellin san diego
+330000000,33000,112,3,3,1,sabaneta aves maria
+320000000,32000,127,3,2,2,sabaneta aves maria
+275000000,27500,100,3,2,1,sabaneta aves maria
+240000000,24000,118,4,2,0,medellin el salvador
+245000000,24500,154,3,2,0,envigado la paz
+260000000,26000,125,3,2,1,itagui santa maria
+210000000,21000,110,3,2,0,medellin buenos aires
+190000000,19000,135,5,2,0,medellin buenos aires
+260000000,26000,151,3,2,0,medellin centro
+300000000,30000,116,3,3,1,sabaneta los alcazares
+250000000,25000,122,4,2,0,medellin las palmas
+250000000,25000,160,3,2,0,medellin la america
+280000000,28000,140,3,3,1,medellin san diego
+330000000,33000,95,3,3,0,medellin oviedo
+300000000,30000,120,5,2,0,medellin campo valdes
+280000000,28000,149,4,3,1,medellin la floresta
+150000000,15000,120,3,2,0,medellin buenos aires
+290000000,29000,155,3,2,0,medellin calasanz
+270000000,27000,155,4,3,0,medellin buenos aires
+160000000,16000,90,3,2,0,medellin la milagrosa
+250000000,25000,127,3,2,0,medellin campo amor
+340000000,34000,150,4,3,0,medellin simon bolivar
+210000000,21000,140,4,2,0,medellin guayabal
+280000000,28000,105,3,2,1,medellin simon bolivar
+335000000,33500,112,3,3,0,medellin simon bolivar
+330000000,33000,180,5,3,2,medellin villa hermosa
+298000000,29800,100,3,3,0,envigado el portal
+290000000,29000,94,3,2,1,medellin la mota
+220000000,22000,126,3,2,0,medellin el salvador
+320000000,32000,110,3,2,0,medellin florida nueva
+270000000,27000,92,3,2,0,sabaneta virgen del carmen
+165000000,16500,125,3,2,0,medellin san benito salamina
+240000000,24000,94,4,2,0,sabaneta entreamigos
+320000000,32000,100,3,2,1,medellin loma de los bernal
+295000000,29500,103,4,2,0,envigado mesa
+176000000,17600,97,3,2,0,medellin boston
+240000000,24000,170,5,2,0,medellin las palmas
+160000000,16000,171,3,3,0,medellin centro
+335000000,33500,90,3,2,1,la-estrella la aldea
+260000000,26000,114,3,2,0,medellin laureles
+261000000,26100,154,5,2,0,medellin el salvador
+320000000,32000,92,3,2,1,sabaneta sabaneta
+350000000,35000,130,4,2,1,medellin aliadas
+350000000,35000,100,3,2,1,medellin loma de los bernal
+315000000,31500,145,4,2,1,medellin san diego
+310000000,31000,172,3,2,0,medellin la pilarica
+280000000,28000,136,3,3,0,medellin centro
+330000000,33000,90,3,2,0,medellin belen
+280000000,28000,92,3,2,0,medellin simon bolivar
+280000000,28000,92,3,3,0,medellin simon bolivar
+180000000,18000,100,3,2,0,medellin florida nueva
+250000000,25000,110,3,3,0,medellin buenos aires
+300000000,30000,90,3,3,0,envigado el escobero
+350000000,35000,161,3,3,1,medellin belen aliadas
+340000000,34000,143,4,3,1,medellin la castellana
+320000000,32000,130,3,2,0,medellin la floresta
+335000000,33500,140,4,3,1,medellin laureles
+350000000,35000,112,3,3,0,sabaneta aves maria
+220000000,22000,100,4,2,0,medellin la milagrosa
+335000000,33500,113,3,2,1,envigado las cometas
+345000000,34500,180,3,3,2,medellin la mota
+300000000,30000,120,3,3,1,envigado zuÃ±iga
+285000000,28500,125,3,2,0,medellin los alcazares
+320000000,32000,122,4,2,0,envigado la paz
+350000000,35000,149,5,2,0,medellin centro
+330000000,33000,101,3,2,1,sabaneta vereda san jose
+300000000,30000,135,3,3,1,medellin estadio
+310000000,31000,110,4,3,1,medellin conquistadores
+187000000,18700,95,4,2,0,medellin santa monica
+250000000,25000,100,3,2,1,medellin simon bolivar
+215000000,21500,160,3,2,1,envigado trianon
+310000000,31000,180,4,3,0,medellin belen san bernardo
+322000000,32200,107,3,2,0,envigado parque envigado
+340000000,34000,90,3,2,1,medellin la castellana
+350000000,35000,92,3,2,2,envigado cerca al exito
+310000000,31000,103,3,2,2,envigado seÃ±orial la cuenca
+155000000,15500,90,3,2,0,itagui los naranjos
+295000000,29500,95,3,2,0,sabaneta una cudra del parque y del exito
+270000000,27000,100,4,2,0,medellin san javier
+290000000,29000,95,4,3,0,medellin san joaquin
+280000000,28000,150,4,2,0,medellin los angeles
+300000000,30000,92,3,2,1,envigado seÃ±orial
+300000000,30000,92,3,2,1,envigado seÃ±orial
+270000000,27000,96,3,2,1,medellin laureles
+320000000,32000,116,3,2,0,envigado jardines
+270000000,27000,112,3,2,1,medellin belen
+195000000,19500,157,4,2,2,medellin el salvador
+200000000,20000,92,3,2,0,medellin centro
+335000000,33500,113,4,3,1,envigado cometas
+255000000,25500,106,4,3,1,envigado las cometas
+255000000,25500,112,3,3,0,medellin simon bolivar
+260000000,26000,200,4,2,0,medellin campo valdes
+330000000,33000,121,4,3,1,medellin simon bolivar
+280000000,28000,101,4,3,2,envigado manuel uribe angel
+320000000,32000,153,3,2,1,medellin simon bolivar
+330000000,33000,135,3,2,0,medellin belen
+350000000,35000,98,3,2,1,medellin la loma del indio
+300000000,30000,116,4,3,2,itagui suramerica
+340000000,34000,93,3,2,0,sabaneta calle del banco
+280000000,28000,120,3,2,0,medellin la america
+310000000,31000,160,3,3,0,la-estrella san agustin
+330000000,33000,121,4,3,1,medellin simon bolivar
+135000000,13500,110,3,2,0,medellin la milagrosa
+295000000,29500,91,3,2,1,sabaneta aves maria
+345000000,34500,180,5,3,1,medellin buenos aires
+330000000,33000,96,3,2,0,medellin belen la palma
+250000000,25000,100,4,2,0,medellin lopez de mesa
+330000000,33000,97,3,2,1,envigado oasis
+210000000,21000,113,4,2,0,medellin florida nueva
+340000000,34000,100,3,2,1,envigado envigado cumbres
+270000000,27000,111,3,2,1,medellin loma de los bernal
+340000000,34000,117,4,3,1,envigado envigado
+350000000,35000,93,3,3,1,medellin laureles
+330000000,33000,120,3,3,1,medellin laureles
+170000000,17000,121,4,2,0,medellin robledo
+250000000,25000,107,3,2,0,medellin calasanz
+320000000,32000,93,3,2,2,sabaneta san jose
+291000000,29100,139,4,2,1,medellin calasanz
+310000000,31000,114,3,3,1,envigado la inmaculada
+220000000,22000,100,3,3,1,medellin la america
+270000000,27000,90,3,2,1,medellin loma de los bernal
+340000000,34000,98,3,2,1,envigado primavera
+335000000,33500,116,3,2,1,envigado las cometas
+270000000,27000,130,3,2,0,medellin la america
+335000000,33500,94,4,2,1,envigado seÃ±orial
+300000000,30000,128,3,2,1,envigado obrero
+350000000,35000,97,3,2,0,sabaneta aves marias
+270000000,27000,90,3,2,0,sabaneta san jose
+330000000,33000,116,3,2,1,medellin la castellana
+350000000,35000,95,3,2,2,envigado el trianon envigado
+320000000,32000,112,3,3,0,medellin la floresta
+290000000,29000,105,4,3,1,medellin belen la palma
+280000000,28000,95,4,3,2,envigado las flores
+330000000,33000,95,3,2,0,envigado loma del escobero
+315000000,31500,200,3,3,1,medellin santa monica
+340000000,34000,140,4,2,0,medellin simon bolivar
+150000000,15000,90,3,2,0,medellin robledo
+350000000,35000,93,3,2,1,envigado mesa
+292000000,29200,140,3,2,1,medellin la america
+260000000,26000,90,3,2,1,medellin simon bolivar
+325000000,32500,101,4,2,1,envigado loma de cumbres
+320000000,32000,94,3,2,2,medellin loma de los bernal
+330000000,33000,133,3,3,1,medellin calasanz
+230000000,23000,118,3,2,1,medellin cordoba
+340000000,34000,149,4,3,0,medellin simon bolivar
+350000000,35000,130,5,3,1,medellin san joaquin
+350000000,35000,190,5,2,0,medellin prado
+320000000,32000,128,3,2,1,medellin conquistadores
+340000000,34000,100,3,2,1,medellin simon bolivar
+240000000,24000,90,3,2,1,medellin calasanz
+309900000,30990,91,3,3,1,envigado la paz
+165000000,16500,140,5,2,0,medellin robledo
+330000000,33000,120,3,3,1,medellin la castellana
+205000000,20500,94,3,2,0,medellin santa monica
+280000000,28000,96,3,3,1,medellin la mota
+280000000,28000,91.5,3,2,1,itagui suramerica
+255000000,25500,125,3,2,0,itagui suramerica
+260000000,26000,100,3,2,0,envigado la paz
+350000000,35000,160,3,3,0,medellin belen rosales
+210000000,21000,180,4,2,0,medellin santa monica
+240000000,24000,140,5,3,1,medellin santa monica
+330000000,33000,157,3,2,0,medellin calasanz
+285000000,28500,124,4,3,0,medellin san joaquin
+275000000,27500,120,4,3,1,medellin villa hermosa
+275000000,27500,91,3,2,0,sabaneta san joaquin
+260000000,26000,127,3,2,2,medellin belen
+350000000,35000,98,3,2,2,medellin el poblado
+250000000,25000,162,3,2,0,medellin florencia
+220000000,22000,107,3,2,0,envigado la magnolia
+250000000,25000,94,3,2,1,medellin belen rosales
+320000000,32000,92,3,3,0,sabaneta san jose
+195000000,19500,135,4,3,0,medellin guayabal
+320000000,32000,124,3,2,1,medellin simon bolivar
+330000000,33000,92,3,2,0,envigado cumbres
+265000000,26500,123,4,3,0,envigado san jose
+250000000,25000,127,5,2,0,medellin prado centro
+300000000,30000,122,4,3,0,medellin santa maria de los angeles
+220000000,22000,110,3,2,0,medellin los colores
+298000000,29800,125,3,3,0,medellin centro
+290000000,29000,95,3,3,1,la-estrella suramerica
+350000000,35000,160,4,2,1,medellin suroccidente
+320000000,32000,93,3,2,1,sabaneta santa ana
+212000000,21200,110,3,2,0,envigado envigado
+340000000,34000,94,3,2,0,envigado esmeraldal
+220000000,22000,92,3,2,0,envigado envigado
+250000000,25000,132,4,2,0,medellin suroccidente
+324900000,32490,115,3,3,2,medellin conquistadores
+270000000,27000,90,3,2,1,medellin laureles
+290000000,29000,142,4,2,0,medellin trinidad
+350000000,35000,170,4,3,1,itagui suramerica
+200000000,20000,100,4,2,0,medellin belen las mercedes
+250000000,25000,92,3,3,1,medellin belen la palma
+300000000,30000,90,3,2,1,medellin belen
+280000000,28000,150,3,3,1,medellin la castellana
+350000000,35000,92,3,2,1,sabaneta las lomitas
+300000000,30000,93,3,2,1,envigado el portal
+255000000,25500,114,3,2,0,envigado envigado
+220000000,22000,106,3,2,0,medellin belen miravalle
+280000000,28000,117,4,2,2,envigado el escobero
+265000000,26500,100,3,3,1,envigado mesa
+310000000,31000,102.7,3,2,1,sabaneta caÃ±averalejo
+320000000,32000,106,3,2,1,sabaneta aves maria
+268000000,26800,99,3,2,0,sabaneta aves marias
+260000000,26000,93,3,3,1,sabaneta aves maria
+290000000,29000,96,3,3,2,medellin la mota
+290000000,29000,117,3,3,1,medellin los colores
+320000000,32000,90,4,2,1,medellin calasanz
+330000000,33000,91,3,2,2,sabaneta pan de azucar
+340000000,34000,115,3,3,1,medellin conquistadores
+285000000,28500,91,4,2,1,la-estrella suramerica
+230000000,23000,105,4,2,1,medellin belen san bernardo
+290000000,29000,90,3,2,0,sabaneta aves marias
+326000000,32600,101,4,3,1,envigado cumbres
+280000000,28000,165,4,3,1,medellin las playas
+335000000,33500,91,3,2,0,sabaneta aves marias
+295000000,29500,115,3,2,1,medellin simon bolivar
+260000000,26000,94,3,3,0,sabaneta aves marias
+320000000,32000,180,3,3,0,medellin castropol
+325000000,32500,115,3,2,0,sabaneta restrepo naranjo
+250000000,25000,132,4,2,0,medellin belen
+298000000,29800,125,3,2,0,medellin san joaquin
+335000000,33500,125,3,3,0,medellin el poblado
+350000000,35000,100,3,3,0,medellin las palmas
+180000000,18000,117,4,2,1,medellin pedregal
+230000000,23000,125,3,2,1,medellin centro
+350000000,35000,183,5,3,0,envigado suÃ±iga
+310000000,31000,90,3,2,1,sabaneta loma san jose
+270000000,27000,142,4,3,0,medellin laureles
+300000000,30000,90,3,3,1,medellin loma de los bernal
+320000000,32000,145,4,2,1,medellin los colores
+330000000,33000,110,4,2,0,sabaneta prados de sabaneta
+307000000,30700,108,3,3,1,sabaneta aves maria
+240000000,24000,113,3,3,1,medellin suroccidente
+245000000,24500,90,3,2,0,envigado la abadia
+270000000,27000,90,3,2,1,envigado alto de las flores
+300000000,30000,90,3,2,0,envigado primavera
+280000000,28000,97,3,2,0,medellin manila
+295900000,29590,93,3,2,1,medellin sabaneta
+150000000,15000,100,3,2,0,medellin la milagrosa
+300000000,30000,136,4,3,0,medellin el diamante
+290000000,29000,100,3,3,0,sabaneta aves maria
+275000000,27500,91,3,2,1,sabaneta loma linda
+335000000,33500,96,3,2,0,envigado el portal
+290000000,29000,140,3,3,0,medellin san diego
+290000000,29000,92,3,3,1,sabaneta sabaneta
+240000000,24000,92,3,2,0,envigado envigado el portal
+350000000,35000,174,4,3,0,medellin buenos aires
+310000000,31000,90,3,3,0,sabaneta aves marias
+175000000,17500,90.4,3,2,0,medellin santa lucia
+335000000,33500,94,3,2,1,envigado envigado
+290000000,29000,120,4,2,1,envigado el dorado
+280000000,28000,103,3,2,1,medellin loma de los bernal
+285000000,28500,97,4,2,0,sabaneta holanda
+255000000,25500,90,3,2,0,sabaneta san joaquin
+260000000,26000,112,3,3,0,sabaneta santa ana
+260000000,26000,106,3,3,0,sabaneta aves maria
+300000000,30000,110,3,2,0,sabaneta aves maria
+300000000,30000,93,3,2,0,sabaneta san jose
+320000000,32000,138,5,3,2,medellin calasanz
+200000000,20000,97,3,3,0,sabaneta virgen del carmen
+330000000,33000,90,3,2,1,sabaneta sabaneta
+240000000,24000,122,5,3,1,medellin calasanz
+345000000,34500,115,3,2,1,medellin conquistadores
+250000000,25000,90,3,2,0,medellin belen
+270000000,27000,90,3,2,1,medellin belen
+330000000,33000,93,3,2,1,sabaneta sabaneta
+338000000,33800,97,3,2,0,sabaneta
+300000000,30000,120,3,2,1,medellin loma de los bernal
+350000000,35000,125,3,3,2,medellin laureles
+310000000,31000,134,4,2,1,medellin santa monica
+140000000,14000,145,5,2,0,medellin manrique central
+280000000,28000,110,4,2,1,medellin los colores
+345000000,34500,91,3,2,2,sabaneta sabaneta
+345000000,34500,176,4,3,1,medellin belen
+340000000,34000,119,3,3,0,envigado sabaneta zuÃ±iga
+345000000,34500,106,3,2,2,medellin sabaneta vereda san jose
+280000000,28000,112,3,2,1,envigado envigado
+155000000,15500,100,4,2,0,medellin manrique
+310000000,31000,99,3,3,1,sabaneta aves maria
+190000000,19000,118,3,3,0,medellin trinidad
+315000000,31500,99,3,2,0,sabaneta aves marias
+298000000,29800,100,3,3,1,envigado el portal
+330000000,33000,138,4,3,1,medellin simon bolivar
+322000000,32200,130.8,3,3,2,medellin milla de oro
+290000000,29000,93,3,2,0,sabaneta sabaneta
+320000000,32000,92,3,2,0,sabaneta aves marias
+332000000,33200,93,3,2,0,sabaneta san jose
+320000000,32000,102,3,2,1,medellin loma de los bernal
+240000000,24000,120,3,2,0,medellin loma del indio
+280000000,28000,115,4,2,0,medellin loma de los gonzalez
+320000000,32000,95,3,2,0,medellin el campestre
+290000000,29000,90,3,2,0,sabaneta loma san jose
+340000000,34000,90,3,2,1,sabaneta aves maria
+324000000,32400,112,3,3,1,sabaneta sabaneta
+350000000,35000,136,3,3,0,medellin belen
+320000000,32000,138,5,3,2,medellin calasanz
+190000000,19000,90,4,2,0,medellin robledo
+280000000,28000,103,3,2,1,medellin belen loma de los bernal
+270000000,27000,102,3,3,1,medellin san diego
+305000000,30500,90,3,2,0,sabaneta sabaneta
+320000000,32000,160,4,3,0,envigado la mesa
+300000000,30000,92,3,2,1,envigado seÃ±orial
+280000000,28000,117,3,2,1,medellin conquistadores
+275000000,27500,96,3,2,1,la-estrella suramerica
+350000000,35000,136,3,3,1,medellin simon bolivar
+155000000,15500,106,4,3,0,medellin la colina
+350000000,35000,136,3,2,1,medellin simon bolivar
+230000000,23000,98,4,2,0,medellin la castellana
+345000000,34500,95,3,2,2,envigado envigado
+340000000,34000,93,3,2,1,medellin el poblado
+260000000,26000,100,4,3,1,medellin loma del indio
+245000000,24500,119,3,2,1,medellin almeria
+330000000,33000,93,3,2,1,sabaneta parque principal
+345000000,34500,91,3,2,2,sabaneta aves maria
+340000000,34000,193,3,3,0,medellin san joaquin
+240000000,24000,138,4,2,1,sabaneta
+285000000,28500,153,3,3,1,medellin santa monica
+170000000,17000,94,3,2,0,medellin belen las playas
+300000000,30000,100,3,2,1,medellin el poblado
+270000000,27000,96,3,2,0,medellin simon bolivar
+140000000,14000,115,3,2,0,medellin kennedy
+340000000,34000,90,3,2,1,envigado loma de las brujas
+330000000,33000,100,3,2,1,medellin los colores
+298000000,29800,128,4,2,0,medellin san joaquin
+350000000,35000,160,3,3,1,la-estrella suramerica
+265000000,26500,90,3,2,0,medellin barrio cristobal
+250000000,25000,95,3,3,0,medellin la frontera
+140000000,14000,103,3,2,0,medellin belen rincon
+330000000,33000,91,3,3,2,sabaneta caÃ±avarelo
+175000000,17500,120,4,3,0,medellin prado
+280000000,28000,131,3,2,0,medellin simon bolivar
+280000000,28000,100,3,2,0,sabaneta aves maria
+342000000,34200,112,3,3,1,sabaneta aves maria
+320000000,32000,100,3,2,1,sabaneta aves maria
+310000000,31000,90,4,3,1,sabaneta san jose
+280000000,28000,110,3,2,1,medellin los colores
+200000000,20000,100,4,2,0,medellin las mercedes
+220000000,22000,93,3,2,0,sabaneta mayorca
+330000000,33000,113,3,3,1,medellin conquistadores
+280000000,28000,95,3,2,0,medellin calasanz
+245000000,24500,107,3,2,1,medellin calasanz
+300000000,30000,126,4,2,1,medellin belen rosales
+250000000,25000,200,5,3,0,medellin florencia
+320000000,32000,114,3,3,2,sabaneta sabaneta
+320000000,32000,145,3,2,1,medellin conquistadores
+320000000,32000,114,3,3,1,sabaneta aves maria
+290000000,29000,98,3,2,1,sabaneta aves maria
+320000000,32000,141,4,3,0,medellin el poblado
+350000000,35000,147,4,3,1,medellin loma de los bernal
+335000000,33500,128,3,3,0,medellin belen rosales
+280000000,28000,157,4,2,0,medellin belen miravalle
+330000000,33000,120,3,3,0,medellin calasanz
+325000000,32500,159,4,2,1,medellin el velodromo
+350000000,35000,90,3,2,0,envigado el portal
+277000000,27700,92,3,2,0,medellin simon bolivar
+240000000,24000,101,3,2,0,medellin la mota
+285000000,28500,92,3,2,1,medellin el poblado
+280000000,28000,140,3,3,0,medellin san diego
+277000000,27700,92,3,2,1,medellin simon bolivar
+300000000,30000,151,3,3,0,medellin belen nutibara
+335000000,33500,94,3,2,1,medellin simon bolivar
+340000000,34000,110,5,3,2,medellin belen la palma
+325000000,32500,101,4,3,0,envigado cumbres
+320000000,32000,200,5,3,0,medellin simon bolivar
+300000000,30000,93,3,2,1,sabaneta aves marias
+195000000,19500,105,4,2,1,medellin san javier
+275000000,27500,124,4,3,1,medellin loma de los bernal
+220000000,22000,150,5,3,0,medellin prado
+280000000,28000,168,3,2,1,medellin centro
+300000000,30000,149,3,3,1,medellin conquistadores
+315000000,31500,111,3,2,0,envigado el dorado
+270000000,27000,142,4,3,1,medellin los colores
+340000000,34000,107,3,2,0,medellin la frontera
+285000000,28500,90,3,2,1,envigado mesa
+290000000,29000,124,3,3,0,medellin belen
+230000000,23000,97,3,2,0,envigado alcala
+285000000,28500,136,4,3,0,medellin laureles
+160000000,16000,115,3,2,0,medellin floresta pradera
+330000000,33000,95,3,2,0,medellin sabaneta
+170000000,17000,95,4,2,0,medellin bello
+320000000,32000,90,3,2,0,sabaneta san joaquin
+260000000,26000,121,3,2,1,medellin la castellana
+350000000,35000,160,3,3,1,medellin belen la mota
+320000000,32000,90,3,2,1,sabaneta cerca al parque
+330000000,33000,98,3,3,1,medellin el poblado
+275000000,27500,120,4,2,0,medellin suroccidente
+275000000,27500,110,4,3,2,medellin simon bolivar
+285000000,28500,90,3,2,0,medellin la almeria
+200000000,20000,94,4,2,1,medellin calasanz
+345000000,34500,154,4,3,0,medellin prado
+350000000,35000,97,3,2,2,envigado camino verde
+215000000,21500,90,3,2,0,medellin estadio
+245000000,24500,146,4,3,0,medellin belen rosales
+220000000,22000,114,4,2,0,medellin san bernardo
+335000000,33500,110,3,3,1,medellin las palmas
+260000000,26000,123,5,3,0,medellin buenos aires
+335000000,33500,123,4,3,1,medellin occidente
+299000000,29900,92.85,3,2,1,envigado mesa
+320000000,32000,100,3,2,1,sabaneta aves maria
+265000000,26500,92,3,2,1,medellin estadio
+280000000,28000,178,5,2,0,itagui villa paula
+340000000,34000,93,3,2,1,sabaneta sabaneta
+340000000,34000,126,3,3,0,envigado primavera
+320000000,32000,92,3,2,1,envigado el dorado
+190000000,19000,96,3,2,1,itagui ditaires
+290000000,29000,117,3,2,0,envigado
+320000000,32000,90,3,2,1,la-estrella la aldea
+245000000,24500,90,3,2,1,envigado loma del barro
+300000000,30000,129,5,3,0,medellin belen miravalle
+320000000,32000,136,4,3,0,medellin la castellana
+280000000,28000,155,5,2,0,medellin calasanz
+260000000,26000,123,4,2,0,medellin la america
+340000000,34000,99,3,3,1,envigado intermedia
+245000000,24500,92,3,2,0,medellin la almeria
+270000000,27000,100,4,3,0,medellin loma del indio
+280000000,28000,94,3,3,0,sabaneta
+340000000,34000,101,4,3,0,envigado
+330000000,33000,117,3,2,0,envigado
+340000000,34000,114,3,2,0,envigado
+265000000,26500,110,3,3,0,envigado
+280000000,28000,100,3,2,0,sabaneta
+330000000,33000,93,3,2,0,sabaneta
+260000000,26000,94,3,3,0,sabaneta aves maria
+240000000,24000,135,3,2,0,medellin boston
+300000000,30000,95,3,3,1,medellin loma de los bernal
+280000000,28000,131,3,3,0,medellin simon bolivar
+220000000,22000,90,3,2,0,medellin las playas
+265000000,26500,138,5,3,1,medellin calasanz
+338000000,33800,104,3,2,1,itagui suramerica
+240000000,24000,104,4,3,2,envigado zu iga
+350000000,35000,108,3,2,1,medellin loma del indio
+330000000,33000,90,3,2,1,itagui suramerica
+300000000,30000,90,3,2,1,la-estrella la ladea
+340000000,34000,140,4,3,1,itagui suramerica
+340000000,34000,93,3,2,1,sabaneta parque
+270000000,27000,94,3,2,1,envigado alcala
+330000000,33000,99,3,2,2,sabaneta aves maria
+330000000,33000,126,4,2,1,medellin loma del indio
+335000000,33500,94,4,2,1,envigado la-esmeralda
+320000000,32000,113,3,2,2,medellin conquistadores
+335000000,33500,94,4,2,1,envigado seÃ±orial
+280000000,28000,101,4,3,2,envigado manuel uribe angel
+335000000,33500,93,3,2,1,envigado barrio mesa
+300000000,30000,90,3,2,0,envigado el esmeraldal
+350000000,35000,115,4,2,1,envigado zuÃ±iga
+290000000,29000,91,4,2,1,medellin el poblado
+290000000,29000,94,3,3,0,sabaneta aves maria
+250000000,25000,145,3,2,0,medellin prado
+250000000,25000,137,4,2,0,medellin santa fe
+290000000,29000,124,4,2,0,medellin simon bolivar
+298000000,29800,125,3,2,0,medellin san joaquin
+305000000,30500,104,3,3,1,la-estrella la-estrella
+340000000,34000,134,3,3,1,medellin los colores
+290000000,29000,125,3,2,1,medellin laureles
+315000000,31500,145,5,3,1,medellin robledo
+334000000,33400,130,4,3,1,medellin laureles
+310000000,31000,90,3,3,1,sabaneta sabaneta
+220000000,22000,105,3,3,1,medellin buenos aires
+280000000,28000,143,3,2,0,medellin la america
+205000000,20500,96,4,2,0,medellin belen sanbernardo
+180000000,18000,120,4,2,0,medellin buenos aires
+150000000,15000,120,4,2,1,medellin robledo palenque
+190000000,19000,110,5,2,0,sabaneta villas del carmen
+270000000,27000,115,3,3,1,medellin la castellana
+285000000,28500,96,3,2,1,sabaneta entre amigos
+315000000,31500,110,4,3,1,medellin la mota
+170000000,17000,109,3,2,0,medellin bombona
+350000000,35000,94,3,2,0,envigado camino verde
+320000000,32000,94,3,2,1,sabaneta aves mar a
+330000000,33000,131,4,2,0,medellin belen miravalle
+300000000,30000,150,3,3,1,medellin simon bolivar
+129000000,12900,115,4,2,0,medellin castilla
+330000000,33000,115,3,3,1,medellin laureles
+125000000,12500,94,4,3,1,medellin robledo
+260000000,26000,115,3,2,0,sabaneta sabaneta
+210000000,21000,105,3,2,0,medellin miraflores
+295000000,29500,133,4,3,1,medellin belen nueva villa del aburra
+340000000,34000,95,3,2,1,envigado el dorado
+250000000,25000,110,3,3,1,envigado intermedia
+350000000,35000,178,4,3,1,medellin campo amor
+260000000,26000,92,3,3,1,envigado otra parte
+260000000,26000,117,3,2,0,itagui el carmelo
+295000000,29500,126,4,3,1,medellin los colores
+285000000,28500,90,3,2,1,envigado la paz
+140000000,14000,90,3,2,1,medellin prado
+350000000,35000,127,3,2,1,medellin laureles
+290000000,29000,109,3,3,1,medellin conquistadores
+350000000,35000,122,3,2,1,medellin laureles
+350000000,35000,152,4,3,1,envigado manga azul
+250000000,25000,95,3,3,1,envigado la frontera
+180000000,18000,142,5,2,0,medellin santa maria itagui
+260000000,26000,115,3,2,1,sabaneta sabaneta
+336000000,33600,102,3,2,1,medellin estadio
+336000000,33600,102,3,2,1,medellin estadio
+170000000,17000,101,3,2,0,medellin belen las mercedes
+325000000,32500,90,3,2,1,sabaneta loma linda
+290000000,29000,145,4,3,0,medellin calasanz
+336000000,33600,102,3,2,1,medellin estadio
+350000000,35000,120,3,3,2,medellin conquistadores
+305000000,30500,91,3,2,0,sabaneta parque principal
+270000000,27000,150,4,3,0,medellin buenos aires
+250000000,25000,127,5,2,0,medellin belen san bernardo
+260000000,26000,130,3,2,2,medellin la america
+320000000,32000,100,3,2,1,medellin loma de los bernal
+280000000,28000,90,3,2,1,sabaneta loma linda
+190000000,19000,120,3,2,0,medellin belen san bernardo
+230000000,23000,100,3,2,0,envigado trianon
+300000000,30000,108,3,2,0,medellin belen miravalle
+280000000,28000,110,4,3,1,medellin belen los alpes
+290000000,29000,96,3,2,1,envigado la magnolia
+350000000,35000,92,3,2,2,medellin las palmas
+280000000,28000,140,5,2,1,envigado manga azul
+350000000,35000,93,3,2,2,envigado la cuenca
+290000000,29000,104,4,2,0,medellin la america
+335000000,33500,113,4,3,2,medellin cosquistadores
+170000000,17000,90,3,2,1,medellin noroccidente
+290000000,29000,96,3,2,1,itagui suramerica
+290000000,29000,90,3,2,0,sabaneta sabaneta
+340000000,34000,172,3,2,0,medellin la castellana
+340000000,34000,94,3,2,0,sabaneta
+315000000,31500,120,3,3,0,la-estrella suramerica
+295000000,29500,115,4,3,0,medellin el portal ed potomac
+250000000,25000,112,3,2,0,medellin belen rosales
+350000000,35000,98,3,2,1,envigado lasalle
+210000000,21000,140,4,2,0,medellin guayabal
+250000000,25000,95,3,2,1,medellin belen rosales
+240000000,24000,127,3,3,1,medellin santa monica
+220000000,22000,96,4,2,0,medellin laureles
+180000000,18000,102,3,2,1,medellin san cristobal
+290000000,29000,95,3,3,2,medellin laureles
+270000000,27000,150,4,3,0,medellin santa monica
+320000000,32000,112,3,2,1,sabaneta parque de sabaneta
+255000000,25500,123,4,3,1,medellin santa monica
+270000000,27000,138,4,3,1,medellin santa monica
+290000000,29000,120,3,3,1,medellin santa monica
+340000000,34000,140,4,3,1,medellin la mota
+330000000,33000,180,5,3,1,medellin santa monica
+245000000,24500,198,5,3,0,medellin belen
+250000000,25000,95,3,2,1,medellin belen rosales
+295000000,29500,91,3,2,1,medellin poblado
+290000000,29000,92,3,2,2,sabaneta san jose
+330000000,33000,145,4,3,1,sabaneta la holanda
+340000000,34000,113,3,2,1,envigado otraparte
+225000000,22500,96,3,2,1,envigado las cometas
+340000000,34000,98,4,3,1,envigado abadia
+270000000,27000,114,4,3,0,medellin la pilarica
+300000000,30000,90,3,2,1,sabaneta aves marias
+350000000,35000,98,3,2,1,envigado zuÃ±iga
+315000000,31500,91,3,2,1,sabaneta aves marias
+310000000,31000,99,3,2,0,medellin loma de los bernal
+175000000,17500,96,4,2,1,medellin san javier
+258000000,25800,137,4,3,1,medellin calasanz
+245000000,24500,132,3,3,0,medellin simon bolivar
+270000000,27000,126,3,2,1,medellin los colores
+215000000,21500,165,4,2,0,medellin guayabal rodeo
+330000000,33000,107,3,2,2,medellin laureles
+350000000,35000,126,4,3,0,medellin almeria
+250000000,25000,108,3,2,1,medellin belen la mota
+240000000,24000,93,3,2,1,sabaneta mayorca
+340000000,34000,118,3,3,2,medellin loma de los bernal
+335000000,33500,109,3,3,1,sabaneta sabaneta aves maria
+280000000,28000,140,3,2,0,medellin calasanz
+310000000,31000,136,3,3,2,medellin la mota
+340000000,34000,92,3,2,0,envigado
+310000000,31000,90,3,2,1,envigado envigado
+270000000,27000,130,4,3,1,envigado la magnolia
+330000000,33000,127,3,3,2,medellin la mota
+295000000,29500,132,4,3,0,medellin la america
+245000000,24500,100,3,3,2,envigado las brujas
+180000000,18000,114,3,2,0,medellin floresta santa lucia
+330000000,33000,93,3,2,1,sabaneta parque de sabaneta
+341000000,34100,93,3,2,1,envigado la abadia
+342051000,34205,93,3,2,1,envigado la abadia
+330000000,33000,93.3,3,2,1,sabaneta parque
+300000000,30000,119,3,2,2,medellin conquistadores
+225000000,22500,107,3,2,1,sabaneta mayorca
+225000000,22500,95,3,2,0,sabaneta virgen del carmen
+330000000,33000,103,3,2,1,medellin la frontera
+320000000,32000,100,3,2,2,envigado cumbres
+265000000,26500,93,3,2,1,sabaneta calle del banco
+185000000,18500,117,4,2,1,envigado mesa
+350000000,35000,155,3,3,1,envigado alcala
+290000000,29000,110,3,2,1,sabaneta aves maria
+300000000,30000,152,4,3,1,envigado la paz
+340000000,34000,100,3,2,1,medellin estadio obelisco
+150000000,15000,127,3,3,0,medellin prado centro
+250000000,25000,189,5,3,0,medellin prado centro
+210000000,21000,93,3,2,0,medellin floresta
